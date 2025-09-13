@@ -1,0 +1,1001 @@
+Restaurant ID,Restaurant Name,City,State,Owner Name,Veg or Non-Veg
+RES0001,Tandoor Treats 1,Ahmedabad,Gujarat,Neha Pandey,Veg
+RES0002,Zaika 2,Guntur,Andhra Pradesh,Deepak Agarwal,Non-Veg
+RES0003,Bistro India 3,Kota,Rajasthan,Rajesh Kumar,Both
+RES0004,Desi Bites 4,Patiala,Punjab,Rita Kapoor,Non-Veg
+RES0005,Chaat House 5,Patna,Bihar,Rajesh Kumar,Non-Veg
+RES0006,Grill & Curry 6,Visakhapatnam,Andhra Pradesh,Pooja Verma,Non-Veg
+RES0007,Southern Flavours 7,Vijayawada,Andhra Pradesh,Rajesh Kumar,Veg
+RES0008,Taste Buds 8,Nizamabad,Telangana,Neha Pandey,Non-Veg
+RES0009,Chaat House 9,Patna,Bihar,Pooja Verma,Veg
+RES0010,Grill & Curry 10,Siliguri,West Bengal,Rajesh Kumar,Both
+RES0011,Bistro India 11,Mangalore,Karnataka,Pooja Verma,Both
+RES0012,Dilli Darbar 12,New Delhi,Delhi,Suresh Gupta,Both
+RES0013,Urban Curry House 13,Kolkata,West Bengal,Anil Sharma,Non-Veg
+RES0014,The Curry House 14,Lucknow,Uttar Pradesh,Neha Pandey,Both
+RES0015,Tandoori House 15,Surat,Gujarat,Vikram Mehta,Veg
+RES0016,Indian Masala 16,Kanpur,Uttar Pradesh,Rita Kapoor,Non-Veg
+RES0017,Annapurna Bhavan 17,Muzaffarpur,Bihar,Anil Sharma,Both
+RES0018,The Veggie Delight 18,Amritsar,Punjab,Rajesh Kumar,Non-Veg
+RES0019,Swaad Sagar 19,Chennai,Tamil Nadu,Sanjay Rao,Both
+RES0020,Rajasthan Royals 20,Mysore,Karnataka,Anil Sharma,Veg
+RES0021,Bombay Bites 21,Gaya,Bihar,Neha Pandey,Both
+RES0022,South Indian Spice 22,Nashik,Maharashtra,Anita Singh,Veg
+RES0023,Veggie Hut 23,Vadodara,Gujarat,Anita Singh,Both
+RES0024,Chopsticks & Curry 24,Agra,Uttar Pradesh,Sanjay Rao,Non-Veg
+RES0025,Royal Dine 25,Amritsar,Punjab,Suresh Gupta,Non-Veg
+RES0026,Saravana Bhavan 26,New Delhi,Delhi,Anil Sharma,Veg
+RES0027,Rasoi Royale 27,Lucknow,Uttar Pradesh,Sanjay Rao,Non-Veg
+RES0028,Bistro India 28,Vadodara,Gujarat,Pooja Verma,Non-Veg
+RES0029,Chaat Bazaar 29,Warangal,Telangana,Vikram Mehta,Veg
+RES0030,Biryani Junction 30,Mumbai,Maharashtra,Vikram Mehta,Non-Veg
+RES0031,Saffron Spice 31,Amritsar,Punjab,Anita Singh,Non-Veg
+RES0032,Tandoori Flames 32,Siliguri,West Bengal,Suresh Gupta,Non-Veg
+RES0033,The Veggie Delight 33,Kanpur,Uttar Pradesh,Vikram Mehta,Non-Veg
+RES0034,Nizam’s Feast 34,Nashik,Maharashtra,Anil Sharma,Both
+RES0035,Taste of India 35,Madurai,Tamil Nadu,Vikram Mehta,Veg
+RES0036,Rajma Roti 36,Thrissur,Kerala,Rajesh Kumar,Both
+RES0037,The Curry House 37,Pune,Maharashtra,Deepak Agarwal,Both
+RES0038,Spice Junction 38,Hubli,Karnataka,Deepak Agarwal,Veg
+RES0039,Tikka Nation 39,Madurai,Tamil Nadu,Rajesh Kumar,Both
+RES0040,Thali Palace 40,Amritsar,Punjab,Deepak Agarwal,Non-Veg
+RES0041,Spice Junction 41,Mangalore,Karnataka,Pooja Verma,Both
+RES0042,Royal Dine 42,Varanasi,Uttar Pradesh,Neha Pandey,Veg
+RES0043,The Kebab Factory 43,Khammam,Telangana,Neha Pandey,Both
+RES0044,Tandoor Treats 44,Khammam,Telangana,Rajesh Kumar,Non-Veg
+RES0045,Biryani Junction 45,Pune,Maharashtra,Rajesh Kumar,Both
+RES0046,Flavours of Punjab 46,Khammam,Telangana,Anita Singh,Non-Veg
+RES0047,Veggie Hut 47,Vijayawada,Andhra Pradesh,Anil Sharma,Non-Veg
+RES0048,Zaika 48,Pune,Maharashtra,Sanjay Rao,Veg
+RES0049,Shahi Zayka 49,Visakhapatnam,Andhra Pradesh,Deepak Agarwal,Veg
+RES0050,Paneer Paradise 50,Mangalore,Karnataka,Pooja Verma,Veg
+RES0051,Chaat House 51,Chennai,Tamil Nadu,Vikram Mehta,Both
+RES0052,Bombay Bites 52,Pune,Maharashtra,Rita Kapoor,Non-Veg
+RES0053,Rajasthan Royals 53,Lucknow,Uttar Pradesh,Anil Sharma,Both
+RES0054,Biryani Hub 54,Vadodara,Gujarat,Anil Sharma,Non-Veg
+RES0055,Spicy Treat 55,Nagpur,Maharashtra,Vikram Mehta,Veg
+RES0056,Urban Curry House 56,Patiala,Punjab,Rajesh Kumar,Non-Veg
+RES0057,Biryani Hub 57,Hubli,Karnataka,Suresh Gupta,Non-Veg
+RES0058,The Curry Pot 58,Hyderabad,Telangana,Deepak Agarwal,Both
+RES0059,Royal Rasoi 59,Mumbai,Maharashtra,Rita Kapoor,Non-Veg
+RES0060,Biryani Junction 60,Amritsar,Punjab,Pooja Verma,Non-Veg
+RES0061,Flavours of Punjab 61,Ludhiana,Punjab,Suresh Gupta,Non-Veg
+RES0062,Taste of India 62,Gaya,Bihar,Anil Sharma,Veg
+RES0063,Urban Curry House 63,Bhagalpur,Bihar,Neha Pandey,Both
+RES0064,Mughlai Feast 64,Nellore,Andhra Pradesh,Rajesh Kumar,Veg
+RES0065,Rajasthan Royals 65,Lucknow,Uttar Pradesh,Sanjay Rao,Both
+RES0066,Dilli Spice 66,Vadodara,Gujarat,Suresh Gupta,Veg
+RES0067,Taste Buds 67,Kota,Rajasthan,Rajesh Kumar,Non-Veg
+RES0068,Curry Cafe 68,Ludhiana,Punjab,Sanjay Rao,Non-Veg
+RES0069,The Kebab Factory 69,Chennai,Tamil Nadu,Anita Singh,Veg
+RES0070,Rasoi Royale 70,Tiruchirappalli,Tamil Nadu,Deepak Agarwal,Both
+RES0071,Dilli Darbar 71,Patiala,Punjab,Pooja Verma,Non-Veg
+RES0072,Bombay Masala 72,Agra,Uttar Pradesh,Suresh Gupta,Non-Veg
+RES0073,Tikka Nation 73,Madurai,Tamil Nadu,Sanjay Rao,Veg
+RES0074,Nizam’s Feast 74,Surat,Gujarat,Rita Kapoor,Veg
+RES0075,The Kebab Factory 75,Tiruchirappalli,Tamil Nadu,Pooja Verma,Both
+RES0076,Punjabi Dhaba 76,Durgapur,West Bengal,Rita Kapoor,Non-Veg
+RES0077,Pind Punjab 77,Kolkata,West Bengal,Deepak Agarwal,Veg
+RES0078,The Veggie Delight 78,Mangalore,Karnataka,Rajesh Kumar,Veg
+RES0079,Tikka Nation 79,Patna,Bihar,Sanjay Rao,Both
+RES0080,Punjabi Dhaba 80,Lucknow,Uttar Pradesh,Neha Pandey,Veg
+RES0081,Urban Curry House 81,Bhagalpur,Bihar,Neha Pandey,Non-Veg
+RES0082,Urban Curry House 82,Patna,Bihar,Anil Sharma,Veg
+RES0083,Shahi Zayka 83,New Delhi,Delhi,Pooja Verma,Non-Veg
+RES0084,Biryani Bowl 84,Kota,Rajasthan,Rajesh Kumar,Veg
+RES0085,Mughlai Feast 85,Rajkot,Gujarat,Anita Singh,Veg
+RES0086,Flavours of Punjab 86,Kanpur,Uttar Pradesh,Rita Kapoor,Both
+RES0087,The Curry Pot 87,Thrissur,Kerala,Vikram Mehta,Both
+RES0088,South Indian Spice 88,Jodhpur,Rajasthan,Deepak Agarwal,Veg
+RES0089,Southern Flavours 89,Ludhiana,Punjab,Anil Sharma,Veg
+RES0090,Curry Cafe 90,New Delhi,Delhi,Vikram Mehta,Non-Veg
+RES0091,Gravy Villa 91,Jodhpur,Rajasthan,Rita Kapoor,Veg
+RES0092,Pind Punjab 92,Durgapur,West Bengal,Rita Kapoor,Both
+RES0093,South Indian Spice 93,Gaya,Bihar,Suresh Gupta,Non-Veg
+RES0094,Paneer Paradise 94,Hyderabad,Telangana,Pooja Verma,Non-Veg
+RES0095,Swaad Sagar 95,Mangalore,Karnataka,Vikram Mehta,Veg
+RES0096,South Indian Spice 96,Varanasi,Uttar Pradesh,Vikram Mehta,Both
+RES0097,Paneer Paradise 97,Visakhapatnam,Andhra Pradesh,Anil Sharma,Veg
+RES0098,Desi Bites 98,Madurai,Tamil Nadu,Anil Sharma,Both
+RES0099,Veggie Hut 99,Surat,Gujarat,Sanjay Rao,Non-Veg
+RES0100,Taste Buds 100,Tiruchirappalli,Tamil Nadu,Pooja Verma,Both
+RES0101,Chopsticks & Curry 101,Nizamabad,Telangana,Neha Pandey,Both
+RES0102,Royal Rasoi 102,Kozhikode,Kerala,Sanjay Rao,Non-Veg
+RES0103,Biryani Hub 103,Surat,Gujarat,Rajesh Kumar,Non-Veg
+RES0104,Mirchi Masala 104,Mangalore,Karnataka,Deepak Agarwal,Non-Veg
+RES0105,Swaad Sagar 105,Muzaffarpur,Bihar,Anita Singh,Veg
+RES0106,Spice Junction 106,Madurai,Tamil Nadu,Pooja Verma,Both
+RES0107,Curry Cafe 107,Khammam,Telangana,Rita Kapoor,Non-Veg
+RES0108,Paneer Paradise 108,Ludhiana,Punjab,Rita Kapoor,Non-Veg
+RES0109,The Curry House 109,New Delhi,Delhi,Rajesh Kumar,Both
+RES0110,Bombay Bites 110,Kanpur,Uttar Pradesh,Vikram Mehta,Both
+RES0111,Spicy Treat 111,Jodhpur,Rajasthan,Pooja Verma,Veg
+RES0112,Swaad Sagar 112,Khammam,Telangana,Anita Singh,Veg
+RES0113,Bombay Bites 113,New Delhi,Delhi,Anita Singh,Veg
+RES0114,Mughlai Feast 114,Vijayawada,Andhra Pradesh,Pooja Verma,Non-Veg
+RES0115,Taste of India 115,New Delhi,Delhi,Suresh Gupta,Non-Veg
+RES0116,Saravana Bhavan 116,Khammam,Telangana,Anita Singh,Both
+RES0117,Biryani Junction 117,Gaya,Bihar,Suresh Gupta,Both
+RES0118,Paneer Paradise 118,Jodhpur,Rajasthan,Deepak Agarwal,Veg
+RES0119,Tikka Nation 119,Jodhpur,Rajasthan,Anil Sharma,Non-Veg
+RES0120,Tandoori Flames 120,Varanasi,Uttar Pradesh,Pooja Verma,Veg
+RES0121,Chaat House 121,Nagpur,Maharashtra,Deepak Agarwal,Veg
+RES0122,Tikka Nation 122,New Delhi,Delhi,Suresh Gupta,Veg
+RES0123,The Veggie Delight 123,Bhagalpur,Bihar,Rajesh Kumar,Veg
+RES0124,Masala Magic 124,Gaya,Bihar,Pooja Verma,Both
+RES0125,Kebab Kulture 125,Khammam,Telangana,Vikram Mehta,Veg
+RES0126,Curry Cafe 126,Nagpur,Maharashtra,Anil Sharma,Both
+RES0127,Tandoori Flames 127,Howrah,West Bengal,Anil Sharma,Both
+RES0128,Swaad Sagar 128,Hubli,Karnataka,Deepak Agarwal,Veg
+RES0129,Desi Bites 129,Tiruchirappalli,Tamil Nadu,Rita Kapoor,Non-Veg
+RES0130,Mirchi Masala 130,Muzaffarpur,Bihar,Rita Kapoor,Both
+RES0131,Taste Buds 131,Mysore,Karnataka,Pooja Verma,Both
+RES0132,Dosa Corner 132,Patna,Bihar,Anil Sharma,Both
+RES0133,The Curry House 133,Khammam,Telangana,Anil Sharma,Veg
+RES0134,Rasoi Royale 134,Nagpur,Maharashtra,Anil Sharma,Non-Veg
+RES0135,Tandoori House 135,Bangalore,Karnataka,Deepak Agarwal,Veg
+RES0136,Mughlai Feast 136,Nellore,Andhra Pradesh,Pooja Verma,Non-Veg
+RES0137,Indian Masala 137,Guntur,Andhra Pradesh,Suresh Gupta,Non-Veg
+RES0138,Kebab Kulture 138,Nashik,Maharashtra,Vikram Mehta,Veg
+RES0139,Gravy Villa 139,Hubli,Karnataka,Rajesh Kumar,Both
+RES0140,Thali Palace 140,Siliguri,West Bengal,Anil Sharma,Non-Veg
+RES0141,South Indian Spice 141,New Delhi,Delhi,Anita Singh,Both
+RES0142,The Curry House 142,Pune,Maharashtra,Rajesh Kumar,Both
+RES0143,Biryani Hub 143,Jalandhar,Punjab,Vikram Mehta,Veg
+RES0144,Royal Dine 144,Mangalore,Karnataka,Pooja Verma,Non-Veg
+RES0145,Taste Buds 145,Chennai,Tamil Nadu,Sanjay Rao,Non-Veg
+RES0146,The Curry Pot 146,Coimbatore,Tamil Nadu,Vikram Mehta,Non-Veg
+RES0147,Punjabi Dhaba 147,Kanpur,Uttar Pradesh,Anita Singh,Both
+RES0148,Chole Bhature Corner 148,Surat,Gujarat,Rajesh Kumar,Non-Veg
+RES0149,Royal Rasoi 149,Mangalore,Karnataka,Pooja Verma,Veg
+RES0150,Mughlai Feast 150,Jalandhar,Punjab,Pooja Verma,Both
+RES0151,Bombay Masala 151,Varanasi,Uttar Pradesh,Vikram Mehta,Both
+RES0152,Royal Rasoi 152,Kanpur,Uttar Pradesh,Anita Singh,Non-Veg
+RES0153,Kebab Kulture 153,Hyderabad,Telangana,Rita Kapoor,Non-Veg
+RES0154,Chaat House 154,Lucknow,Uttar Pradesh,Deepak Agarwal,Both
+RES0155,Royal Rasoi 155,Varanasi,Uttar Pradesh,Anil Sharma,Veg
+RES0156,Saffron Spice 156,Chennai,Tamil Nadu,Deepak Agarwal,Veg
+RES0157,South Indian Spice 157,New Delhi,Delhi,Rajesh Kumar,Non-Veg
+RES0158,Saravana Bhavan 158,Visakhapatnam,Andhra Pradesh,Pooja Verma,Veg
+RES0159,Biryani Hub 159,Kanpur,Uttar Pradesh,Vikram Mehta,Non-Veg
+RES0160,Spicy Treat 160,Amritsar,Punjab,Sanjay Rao,Non-Veg
+RES0161,Dosa Corner 161,Mysore,Karnataka,Vikram Mehta,Both
+RES0162,Punjabi Dhaba 162,New Delhi,Delhi,Sanjay Rao,Veg
+RES0163,Chopsticks & Curry 163,Ahmedabad,Gujarat,Deepak Agarwal,Both
+RES0164,Rajma Roti 164,Madurai,Tamil Nadu,Vikram Mehta,Non-Veg
+RES0165,The Curry House 165,New Delhi,Delhi,Pooja Verma,Both
+RES0166,Spicy Treat 166,Gaya,Bihar,Anil Sharma,Veg
+RES0167,Spicy Treat 167,Vadodara,Gujarat,Anil Sharma,Both
+RES0168,Veggie Hut 168,Kochi,Kerala,Anil Sharma,Non-Veg
+RES0169,Spicy Treat 169,Bangalore,Karnataka,Anil Sharma,Both
+RES0170,Urban Curry House 170,Coimbatore,Tamil Nadu,Pooja Verma,Non-Veg
+RES0171,Biryani Bowl 171,Bhagalpur,Bihar,Rajesh Kumar,Non-Veg
+RES0172,Paneer Paradise 172,Thiruvananthapuram,Kerala,Vikram Mehta,Veg
+RES0173,Bombay Bites 173,Bhagalpur,Bihar,Sanjay Rao,Both
+RES0174,Biryani Hub 174,Hyderabad,Telangana,Anita Singh,Veg
+RES0175,Biryani Bowl 175,Ludhiana,Punjab,Pooja Verma,Veg
+RES0176,Dosa Corner 176,Patiala,Punjab,Suresh Gupta,Both
+RES0177,Saravana Bhavan 177,Siliguri,West Bengal,Vikram Mehta,Non-Veg
+RES0178,Paneer Paradise 178,Madurai,Tamil Nadu,Sanjay Rao,Non-Veg
+RES0179,Taste Buds 179,Surat,Gujarat,Rita Kapoor,Both
+RES0180,Grill & Curry 180,Gaya,Bihar,Neha Pandey,Both
+RES0181,Dilli Spice 181,Patiala,Punjab,Rita Kapoor,Non-Veg
+RES0182,Royal Dine 182,Jalandhar,Punjab,Anil Sharma,Veg
+RES0183,Swaad Sagar 183,Nashik,Maharashtra,Vikram Mehta,Both
+RES0184,Chaat Bazaar 184,Guntur,Andhra Pradesh,Rajesh Kumar,Non-Veg
+RES0185,The Curry House 185,Madurai,Tamil Nadu,Rajesh Kumar,Veg
+RES0186,Dilli Darbar 186,Jodhpur,Rajasthan,Neha Pandey,Non-Veg
+RES0187,Spicy Treat 187,Muzaffarpur,Bihar,Rita Kapoor,Veg
+RES0188,Punjabi Dhaba 188,Vijayawada,Andhra Pradesh,Vikram Mehta,Veg
+RES0189,South Indian Spice 189,Ahmedabad,Gujarat,Deepak Agarwal,Veg
+RES0190,Dosa Corner 190,Thrissur,Kerala,Vikram Mehta,Both
+RES0191,Bistro India 191,Guntur,Andhra Pradesh,Pooja Verma,Veg
+RES0192,Desi Bites 192,New Delhi,Delhi,Rajesh Kumar,Both
+RES0193,Saffron Spice 193,Kochi,Kerala,Pooja Verma,Both
+RES0194,Rajma Roti 194,Khammam,Telangana,Vikram Mehta,Veg
+RES0195,Rajasthan Royals 195,Lucknow,Uttar Pradesh,Suresh Gupta,Non-Veg
+RES0196,Curry Cafe 196,New Delhi,Delhi,Neha Pandey,Non-Veg
+RES0197,Bombay Bites 197,Udaipur,Rajasthan,Vikram Mehta,Veg
+RES0198,Tandoori House 198,Mumbai,Maharashtra,Sanjay Rao,Non-Veg
+RES0199,Royal Dine 199,Gaya,Bihar,Rita Kapoor,Non-Veg
+RES0200,Mirchi Masala 200,Chennai,Tamil Nadu,Suresh Gupta,Non-Veg
+RES0201,The Kebab Factory 201,New Delhi,Delhi,Anita Singh,Non-Veg
+RES0202,Saravana Bhavan 202,Kota,Rajasthan,Suresh Gupta,Both
+RES0203,Kebab Kulture 203,Kochi,Kerala,Anil Sharma,Non-Veg
+RES0204,Tikka Nation 204,Bhagalpur,Bihar,Suresh Gupta,Non-Veg
+RES0205,Taste Buds 205,Nashik,Maharashtra,Pooja Verma,Both
+RES0206,Gravy Villa 206,Bhagalpur,Bihar,Pooja Verma,Veg
+RES0207,Pind Punjab 207,Udaipur,Rajasthan,Pooja Verma,Non-Veg
+RES0208,Urban Curry House 208,Vijayawada,Andhra Pradesh,Suresh Gupta,Both
+RES0209,Dilli Darbar 209,Kota,Rajasthan,Rita Kapoor,Veg
+RES0210,The Curry House 210,Khammam,Telangana,Anita Singh,Both
+RES0211,The Curry House 211,Agra,Uttar Pradesh,Suresh Gupta,Both
+RES0212,Taste Buds 212,Tiruchirappalli,Tamil Nadu,Rita Kapoor,Veg
+RES0213,Taste Buds 213,Jodhpur,Rajasthan,Sanjay Rao,Both
+RES0214,Indian Masala 214,Thiruvananthapuram,Kerala,Pooja Verma,Non-Veg
+RES0215,Bistro India 215,Khammam,Telangana,Pooja Verma,Both
+RES0216,Mirchi Masala 216,Siliguri,West Bengal,Rajesh Kumar,Veg
+RES0217,South Indian Spice 217,Thrissur,Kerala,Neha Pandey,Veg
+RES0218,Spicy Treat 218,Gaya,Bihar,Suresh Gupta,Both
+RES0219,Chole Bhature Corner 219,Udaipur,Rajasthan,Sanjay Rao,Non-Veg
+RES0220,Taste Buds 220,Coimbatore,Tamil Nadu,Anita Singh,Veg
+RES0221,Dosa Corner 221,Nellore,Andhra Pradesh,Deepak Agarwal,Both
+RES0222,Bistro India 222,Vadodara,Gujarat,Anita Singh,Non-Veg
+RES0223,Paneer Paradise 223,Muzaffarpur,Bihar,Anita Singh,Non-Veg
+RES0224,Tandoori House 224,Howrah,West Bengal,Suresh Gupta,Veg
+RES0225,Annapurna Bhavan 225,Kochi,Kerala,Rajesh Kumar,Non-Veg
+RES0226,Bombay Bites 226,Kochi,Kerala,Rita Kapoor,Non-Veg
+RES0227,The Veggie Delight 227,Pune,Maharashtra,Sanjay Rao,Both
+RES0228,Chaat House 228,Mysore,Karnataka,Rajesh Kumar,Veg
+RES0229,Chaat House 229,Vijayawada,Andhra Pradesh,Pooja Verma,Both
+RES0230,Zaika 230,Gaya,Bihar,Deepak Agarwal,Non-Veg
+RES0231,Urban Curry House 231,Surat,Gujarat,Sanjay Rao,Non-Veg
+RES0232,Rajma Roti 232,Udaipur,Rajasthan,Rajesh Kumar,Veg
+RES0233,Nizam’s Feast 233,Nellore,Andhra Pradesh,Vikram Mehta,Both
+RES0234,Masala Magic 234,Chennai,Tamil Nadu,Pooja Verma,Both
+RES0235,Bistro India 235,Kolkata,West Bengal,Vikram Mehta,Non-Veg
+RES0236,Spice Junction 236,Howrah,West Bengal,Neha Pandey,Non-Veg
+RES0237,Saffron Spice 237,Durgapur,West Bengal,Anil Sharma,Both
+RES0238,Bombay Masala 238,Kochi,Kerala,Vikram Mehta,Non-Veg
+RES0239,Urban Curry House 239,Lucknow,Uttar Pradesh,Neha Pandey,Non-Veg
+RES0240,Saravana Bhavan 240,Bhagalpur,Bihar,Anita Singh,Non-Veg
+RES0241,The Curry House 241,Gaya,Bihar,Anil Sharma,Veg
+RES0242,Urban Curry House 242,New Delhi,Delhi,Anita Singh,Veg
+RES0243,Chole Bhature Corner 243,Thiruvananthapuram,Kerala,Vikram Mehta,Both
+RES0244,Gravy Villa 244,Jalandhar,Punjab,Neha Pandey,Both
+RES0245,Biryani Junction 245,Nagpur,Maharashtra,Deepak Agarwal,Both
+RES0246,Mirchi Masala 246,Madurai,Tamil Nadu,Sanjay Rao,Veg
+RES0247,Rajma Roti 247,Jodhpur,Rajasthan,Deepak Agarwal,Veg
+RES0248,Chaat Bazaar 248,Surat,Gujarat,Sanjay Rao,Veg
+RES0249,Saravana Bhavan 249,Vijayawada,Andhra Pradesh,Neha Pandey,Non-Veg
+RES0250,Rajma Roti 250,Tiruchirappalli,Tamil Nadu,Suresh Gupta,Both
+RES0251,Swaad Sagar 251,Thrissur,Kerala,Sanjay Rao,Veg
+RES0252,Chole Bhature Corner 252,Surat,Gujarat,Neha Pandey,Veg
+RES0253,Tikka Nation 253,Jodhpur,Rajasthan,Vikram Mehta,Non-Veg
+RES0254,The Kebab Factory 254,Udaipur,Rajasthan,Anil Sharma,Non-Veg
+RES0255,Biryani Hub 255,Lucknow,Uttar Pradesh,Sanjay Rao,Veg
+RES0256,Royal Rasoi 256,Mysore,Karnataka,Deepak Agarwal,Veg
+RES0257,Taste Buds 257,New Delhi,Delhi,Anita Singh,Both
+RES0258,Dosa Corner 258,Ludhiana,Punjab,Anil Sharma,Non-Veg
+RES0259,Rajma Roti 259,Thrissur,Kerala,Sanjay Rao,Both
+RES0260,Gravy Villa 260,Khammam,Telangana,Anil Sharma,Non-Veg
+RES0261,Chaat House 261,Kochi,Kerala,Vikram Mehta,Non-Veg
+RES0262,Rajasthan Royals 262,Siliguri,West Bengal,Suresh Gupta,Non-Veg
+RES0263,Bombay Bites 263,Tiruchirappalli,Tamil Nadu,Pooja Verma,Non-Veg
+RES0264,The Kebab Factory 264,Gaya,Bihar,Rajesh Kumar,Both
+RES0265,Annapurna Bhavan 265,Vadodara,Gujarat,Anita Singh,Both
+RES0266,Pind Punjab 266,Vadodara,Gujarat,Neha Pandey,Non-Veg
+RES0267,Punjabi Dhaba 267,Nagpur,Maharashtra,Pooja Verma,Non-Veg
+RES0268,Bistro India 268,Kanpur,Uttar Pradesh,Anil Sharma,Non-Veg
+RES0269,Masala Magic 269,Nagpur,Maharashtra,Anil Sharma,Both
+RES0270,Veggie Hut 270,Nashik,Maharashtra,Anil Sharma,Veg
+RES0271,Curry Cafe 271,Vadodara,Gujarat,Sanjay Rao,Both
+RES0272,Royal Dine 272,Mysore,Karnataka,Pooja Verma,Non-Veg
+RES0273,Pind Punjab 273,Udaipur,Rajasthan,Neha Pandey,Non-Veg
+RES0274,Taste of India 274,Nagpur,Maharashtra,Neha Pandey,Both
+RES0275,Flavours of Punjab 275,Guntur,Andhra Pradesh,Anita Singh,Veg
+RES0276,Swaad Sagar 276,Jaipur,Rajasthan,Deepak Agarwal,Both
+RES0277,Chopsticks & Curry 277,Thrissur,Kerala,Suresh Gupta,Non-Veg
+RES0278,Dosa Corner 278,Bhagalpur,Bihar,Suresh Gupta,Non-Veg
+RES0279,Biryani Hub 279,Jaipur,Rajasthan,Sanjay Rao,Veg
+RES0280,Biryani Bowl 280,Jaipur,Rajasthan,Deepak Agarwal,Non-Veg
+RES0281,Bombay Masala 281,Ludhiana,Punjab,Pooja Verma,Non-Veg
+RES0282,Thali Palace 282,Patiala,Punjab,Rita Kapoor,Both
+RES0283,Spice Junction 283,Guntur,Andhra Pradesh,Sanjay Rao,Both
+RES0284,Kebab Kulture 284,Bhagalpur,Bihar,Deepak Agarwal,Veg
+RES0285,Chole Bhature Corner 285,Durgapur,West Bengal,Suresh Gupta,Non-Veg
+RES0286,Tandoori House 286,Agra,Uttar Pradesh,Vikram Mehta,Veg
+RES0287,Bombay Bites 287,Warangal,Telangana,Suresh Gupta,Both
+RES0288,Dosa Corner 288,Nizamabad,Telangana,Vikram Mehta,Non-Veg
+RES0289,Masala Magic 289,Pune,Maharashtra,Neha Pandey,Non-Veg
+RES0290,Saravana Bhavan 290,Pune,Maharashtra,Anil Sharma,Veg
+RES0291,Rajasthan Royals 291,Mysore,Karnataka,Anil Sharma,Both
+RES0292,Tandoori House 292,Coimbatore,Tamil Nadu,Anil Sharma,Non-Veg
+RES0293,South Indian Spice 293,Nashik,Maharashtra,Anita Singh,Both
+RES0294,Zaika 294,Pune,Maharashtra,Anil Sharma,Veg
+RES0295,Masala Magic 295,Kolkata,West Bengal,Sanjay Rao,Non-Veg
+RES0296,Saravana Bhavan 296,Mumbai,Maharashtra,Anil Sharma,Non-Veg
+RES0297,Annapurna Bhavan 297,Bangalore,Karnataka,Rajesh Kumar,Veg
+RES0298,Biryani Junction 298,Kozhikode,Kerala,Sanjay Rao,Veg
+RES0299,Mughlai Feast 299,Guntur,Andhra Pradesh,Sanjay Rao,Veg
+RES0300,Biryani Bowl 300,Kota,Rajasthan,Pooja Verma,Veg
+RES0301,Rajma Roti 301,Mangalore,Karnataka,Suresh Gupta,Both
+RES0302,Dilli Darbar 302,Nagpur,Maharashtra,Vikram Mehta,Non-Veg
+RES0303,Taste of India 303,Siliguri,West Bengal,Anil Sharma,Veg
+RES0304,Kebab Kulture 304,Kolkata,West Bengal,Anita Singh,Both
+RES0305,Chaat House 305,Jaipur,Rajasthan,Rajesh Kumar,Both
+RES0306,The Curry House 306,New Delhi,Delhi,Rita Kapoor,Veg
+RES0307,Tandoori House 307,Amritsar,Punjab,Sanjay Rao,Both
+RES0308,Chole Bhature Corner 308,Tiruchirappalli,Tamil Nadu,Anita Singh,Both
+RES0309,Taste Buds 309,Hubli,Karnataka,Rita Kapoor,Veg
+RES0310,The Curry House 310,Nellore,Andhra Pradesh,Vikram Mehta,Non-Veg
+RES0311,Biryani Junction 311,Nagpur,Maharashtra,Anita Singh,Both
+RES0312,Punjabi Dhaba 312,Udaipur,Rajasthan,Neha Pandey,Both
+RES0313,Biryani Junction 313,Vadodara,Gujarat,Anita Singh,Both
+RES0314,Curry Cafe 314,Chennai,Tamil Nadu,Sanjay Rao,Veg
+RES0315,Tandoori Flames 315,Nagpur,Maharashtra,Rita Kapoor,Veg
+RES0316,Gravy Villa 316,Kochi,Kerala,Pooja Verma,Non-Veg
+RES0317,Thali Palace 317,Kolkata,West Bengal,Rajesh Kumar,Non-Veg
+RES0318,The Veggie Delight 318,Mysore,Karnataka,Neha Pandey,Non-Veg
+RES0319,Veggie Hut 319,Mysore,Karnataka,Pooja Verma,Non-Veg
+RES0320,Mughlai Feast 320,Madurai,Tamil Nadu,Vikram Mehta,Non-Veg
+RES0321,Spicy Treat 321,Durgapur,West Bengal,Suresh Gupta,Veg
+RES0322,Annapurna Bhavan 322,Kota,Rajasthan,Deepak Agarwal,Veg
+RES0323,Kebab Kulture 323,Bangalore,Karnataka,Anita Singh,Veg
+RES0324,Dosa Corner 324,Ahmedabad,Gujarat,Neha Pandey,Both
+RES0325,Pind Punjab 325,Mysore,Karnataka,Sanjay Rao,Both
+RES0326,Annapurna Bhavan 326,Thiruvananthapuram,Kerala,Rita Kapoor,Non-Veg
+RES0327,Saravana Bhavan 327,Visakhapatnam,Andhra Pradesh,Deepak Agarwal,Non-Veg
+RES0328,South Indian Spice 328,Mysore,Karnataka,Pooja Verma,Veg
+RES0329,Indian Masala 329,Nizamabad,Telangana,Vikram Mehta,Both
+RES0330,Bombay Bites 330,Coimbatore,Tamil Nadu,Neha Pandey,Veg
+RES0331,Flavours of Punjab 331,Jaipur,Rajasthan,Suresh Gupta,Both
+RES0332,Annapurna Bhavan 332,Vijayawada,Andhra Pradesh,Sanjay Rao,Both
+RES0333,Chopsticks & Curry 333,Rajkot,Gujarat,Anita Singh,Non-Veg
+RES0334,Thali Palace 334,Muzaffarpur,Bihar,Sanjay Rao,Non-Veg
+RES0335,Bombay Bites 335,Jodhpur,Rajasthan,Pooja Verma,Non-Veg
+RES0336,Chole Bhature Corner 336,New Delhi,Delhi,Neha Pandey,Veg
+RES0337,The Kebab Factory 337,Bhagalpur,Bihar,Deepak Agarwal,Non-Veg
+RES0338,Taste of India 338,Nizamabad,Telangana,Vikram Mehta,Both
+RES0339,Taste Buds 339,Ludhiana,Punjab,Sanjay Rao,Veg
+RES0340,Tandoor Treats 340,Agra,Uttar Pradesh,Deepak Agarwal,Veg
+RES0341,The Curry Pot 341,Kanpur,Uttar Pradesh,Suresh Gupta,Non-Veg
+RES0342,Dilli Spice 342,New Delhi,Delhi,Anita Singh,Both
+RES0343,Chole Bhature Corner 343,New Delhi,Delhi,Sanjay Rao,Both
+RES0344,Rajma Roti 344,Gaya,Bihar,Rita Kapoor,Both
+RES0345,Masala Magic 345,Madurai,Tamil Nadu,Suresh Gupta,Veg
+RES0346,Rajma Roti 346,Ludhiana,Punjab,Vikram Mehta,Both
+RES0347,Tandoori House 347,Jodhpur,Rajasthan,Suresh Gupta,Veg
+RES0348,Taste Buds 348,Jodhpur,Rajasthan,Anita Singh,Veg
+RES0349,Nizam’s Feast 349,Jaipur,Rajasthan,Suresh Gupta,Veg
+RES0350,Tandoor Treats 350,Amritsar,Punjab,Sanjay Rao,Both
+RES0351,Rajma Roti 351,Nagpur,Maharashtra,Neha Pandey,Veg
+RES0352,Dilli Darbar 352,Warangal,Telangana,Rita Kapoor,Non-Veg
+RES0353,Biryani Bowl 353,Agra,Uttar Pradesh,Suresh Gupta,Both
+RES0354,Bistro India 354,Lucknow,Uttar Pradesh,Pooja Verma,Non-Veg
+RES0355,Indian Masala 355,Gaya,Bihar,Anil Sharma,Both
+RES0356,Tandoor Treats 356,Jaipur,Rajasthan,Suresh Gupta,Non-Veg
+RES0357,Chaat House 357,Varanasi,Uttar Pradesh,Neha Pandey,Non-Veg
+RES0358,The Curry Pot 358,Ludhiana,Punjab,Vikram Mehta,Both
+RES0359,The Curry Pot 359,Kota,Rajasthan,Anita Singh,Both
+RES0360,Indian Masala 360,Mumbai,Maharashtra,Pooja Verma,Non-Veg
+RES0361,Gravy Villa 361,Kanpur,Uttar Pradesh,Sanjay Rao,Both
+RES0362,Chopsticks & Curry 362,Kozhikode,Kerala,Pooja Verma,Non-Veg
+RES0363,Gravy Villa 363,New Delhi,Delhi,Sanjay Rao,Both
+RES0364,South Indian Spice 364,Warangal,Telangana,Vikram Mehta,Veg
+RES0365,Biryani Bowl 365,Madurai,Tamil Nadu,Rita Kapoor,Both
+RES0366,Thali Palace 366,Hyderabad,Telangana,Anita Singh,Veg
+RES0367,Bombay Masala 367,Rajkot,Gujarat,Rita Kapoor,Non-Veg
+RES0368,Shahi Zayka 368,Mumbai,Maharashtra,Vikram Mehta,Non-Veg
+RES0369,Masala Magic 369,Vijayawada,Andhra Pradesh,Deepak Agarwal,Both
+RES0370,The Curry Pot 370,Varanasi,Uttar Pradesh,Pooja Verma,Veg
+RES0371,South Indian Spice 371,Vijayawada,Andhra Pradesh,Neha Pandey,Non-Veg
+RES0372,Dilli Spice 372,Jaipur,Rajasthan,Anita Singh,Both
+RES0373,Zaika 373,Ahmedabad,Gujarat,Sanjay Rao,Both
+RES0374,Spice Junction 374,Bangalore,Karnataka,Vikram Mehta,Veg
+RES0375,Bistro India 375,Vadodara,Gujarat,Rita Kapoor,Both
+RES0376,Biryani Junction 376,Jodhpur,Rajasthan,Rita Kapoor,Veg
+RES0377,The Kebab Factory 377,Rajkot,Gujarat,Rita Kapoor,Both
+RES0378,South Indian Spice 378,Agra,Uttar Pradesh,Sanjay Rao,Non-Veg
+RES0379,Rajma Roti 379,Kozhikode,Kerala,Sanjay Rao,Non-Veg
+RES0380,Kebab Kulture 380,New Delhi,Delhi,Suresh Gupta,Both
+RES0381,Punjabi Dhaba 381,New Delhi,Delhi,Sanjay Rao,Both
+RES0382,Curry Cafe 382,New Delhi,Delhi,Sanjay Rao,Both
+RES0383,Taste of India 383,Kanpur,Uttar Pradesh,Rajesh Kumar,Veg
+RES0384,Dilli Spice 384,Hyderabad,Telangana,Deepak Agarwal,Veg
+RES0385,Flavours of Punjab 385,Howrah,West Bengal,Pooja Verma,Non-Veg
+RES0386,Urban Curry House 386,Kanpur,Uttar Pradesh,Rajesh Kumar,Non-Veg
+RES0387,Pind Punjab 387,Mysore,Karnataka,Neha Pandey,Veg
+RES0388,Pind Punjab 388,Thiruvananthapuram,Kerala,Rajesh Kumar,Non-Veg
+RES0389,Bombay Masala 389,Thiruvananthapuram,Kerala,Deepak Agarwal,Both
+RES0390,Chaat House 390,Bangalore,Karnataka,Suresh Gupta,Non-Veg
+RES0391,Saravana Bhavan 391,Varanasi,Uttar Pradesh,Neha Pandey,Both
+RES0392,Rajma Roti 392,Mysore,Karnataka,Rita Kapoor,Non-Veg
+RES0393,Indian Masala 393,Ludhiana,Punjab,Anil Sharma,Veg
+RES0394,Bistro India 394,Agra,Uttar Pradesh,Rajesh Kumar,Both
+RES0395,Chaat House 395,Jaipur,Rajasthan,Vikram Mehta,Veg
+RES0396,Biryani Hub 396,Bangalore,Karnataka,Sanjay Rao,Veg
+RES0397,Dilli Darbar 397,Hyderabad,Telangana,Anil Sharma,Non-Veg
+RES0398,Taste Buds 398,Vijayawada,Andhra Pradesh,Sanjay Rao,Veg
+RES0399,Royal Rasoi 399,Thiruvananthapuram,Kerala,Rita Kapoor,Veg
+RES0400,The Kebab Factory 400,Thrissur,Kerala,Pooja Verma,Both
+RES0401,Taste of India 401,Madurai,Tamil Nadu,Neha Pandey,Veg
+RES0402,Bistro India 402,New Delhi,Delhi,Rita Kapoor,Non-Veg
+RES0403,Grill & Curry 403,Nellore,Andhra Pradesh,Rajesh Kumar,Veg
+RES0404,Annapurna Bhavan 404,Ahmedabad,Gujarat,Vikram Mehta,Non-Veg
+RES0405,Thali Palace 405,Patna,Bihar,Sanjay Rao,Non-Veg
+RES0406,Thali Palace 406,Thiruvananthapuram,Kerala,Vikram Mehta,Non-Veg
+RES0407,Tandoori House 407,Kochi,Kerala,Deepak Agarwal,Veg
+RES0408,Dosa Corner 408,Nizamabad,Telangana,Rajesh Kumar,Veg
+RES0409,The Veggie Delight 409,Patiala,Punjab,Anita Singh,Veg
+RES0410,Bistro India 410,Ludhiana,Punjab,Rita Kapoor,Non-Veg
+RES0411,Biryani Junction 411,Nashik,Maharashtra,Pooja Verma,Veg
+RES0412,Rajasthan Royals 412,New Delhi,Delhi,Anita Singh,Non-Veg
+RES0413,Grill & Curry 413,Howrah,West Bengal,Anita Singh,Veg
+RES0414,Pind Punjab 414,New Delhi,Delhi,Anita Singh,Both
+RES0415,Flavours of Punjab 415,Nagpur,Maharashtra,Rajesh Kumar,Both
+RES0416,Dilli Darbar 416,Kochi,Kerala,Anita Singh,Veg
+RES0417,Chole Bhature Corner 417,Nizamabad,Telangana,Sanjay Rao,Veg
+RES0418,Gravy Villa 418,New Delhi,Delhi,Neha Pandey,Veg
+RES0419,Annapurna Bhavan 419,Visakhapatnam,Andhra Pradesh,Sanjay Rao,Both
+RES0420,Biryani Hub 420,Mysore,Karnataka,Vikram Mehta,Both
+RES0421,Gravy Villa 421,Bhagalpur,Bihar,Vikram Mehta,Non-Veg
+RES0422,Tandoor Treats 422,Patiala,Punjab,Deepak Agarwal,Non-Veg
+RES0423,Gravy Villa 423,Amritsar,Punjab,Pooja Verma,Non-Veg
+RES0424,Rajasthan Royals 424,Howrah,West Bengal,Deepak Agarwal,Veg
+RES0425,Tandoori House 425,Rajkot,Gujarat,Sanjay Rao,Non-Veg
+RES0426,Urban Curry House 426,Kozhikode,Kerala,Vikram Mehta,Veg
+RES0427,Mughlai Feast 427,Nashik,Maharashtra,Neha Pandey,Veg
+RES0428,Tandoor Treats 428,Guntur,Andhra Pradesh,Deepak Agarwal,Both
+RES0429,Taste of India 429,Thiruvananthapuram,Kerala,Pooja Verma,Both
+RES0430,Punjabi Dhaba 430,Agra,Uttar Pradesh,Deepak Agarwal,Non-Veg
+RES0431,Dilli Darbar 431,Nizamabad,Telangana,Neha Pandey,Non-Veg
+RES0432,Grill & Curry 432,Mysore,Karnataka,Suresh Gupta,Non-Veg
+RES0433,Indian Masala 433,Kanpur,Uttar Pradesh,Anil Sharma,Both
+RES0434,Spice Junction 434,Nashik,Maharashtra,Anita Singh,Non-Veg
+RES0435,Punjabi Dhaba 435,Siliguri,West Bengal,Anita Singh,Non-Veg
+RES0436,Curry Cafe 436,Lucknow,Uttar Pradesh,Rita Kapoor,Non-Veg
+RES0437,The Curry Pot 437,Amritsar,Punjab,Deepak Agarwal,Non-Veg
+RES0438,Chopsticks & Curry 438,Muzaffarpur,Bihar,Sanjay Rao,Non-Veg
+RES0439,Biryani Hub 439,New Delhi,Delhi,Rajesh Kumar,Non-Veg
+RES0440,Desi Bites 440,New Delhi,Delhi,Rajesh Kumar,Veg
+RES0441,Desi Bites 441,Siliguri,West Bengal,Suresh Gupta,Both
+RES0442,Pind Punjab 442,Hubli,Karnataka,Suresh Gupta,Non-Veg
+RES0443,Chaat Bazaar 443,Madurai,Tamil Nadu,Pooja Verma,Both
+RES0444,South Indian Spice 444,Udaipur,Rajasthan,Anita Singh,Veg
+RES0445,Spice Junction 445,Vadodara,Gujarat,Anita Singh,Both
+RES0446,Flavours of Punjab 446,Nizamabad,Telangana,Rita Kapoor,Both
+RES0447,Royal Dine 447,Pune,Maharashtra,Anil Sharma,Veg
+RES0448,Flavours of Punjab 448,Amritsar,Punjab,Suresh Gupta,Veg
+RES0449,The Kebab Factory 449,Kolkata,West Bengal,Rajesh Kumar,Both
+RES0450,South Indian Spice 450,Kanpur,Uttar Pradesh,Suresh Gupta,Non-Veg
+RES0451,Taste of India 451,Durgapur,West Bengal,Anil Sharma,Veg
+RES0452,Royal Rasoi 452,Nizamabad,Telangana,Pooja Verma,Non-Veg
+RES0453,Dilli Darbar 453,Madurai,Tamil Nadu,Rajesh Kumar,Veg
+RES0454,Veggie Hut 454,Hyderabad,Telangana,Suresh Gupta,Both
+RES0455,Rajma Roti 455,Coimbatore,Tamil Nadu,Suresh Gupta,Both
+RES0456,Grill & Curry 456,Vijayawada,Andhra Pradesh,Anita Singh,Non-Veg
+RES0457,Bombay Bites 457,New Delhi,Delhi,Anita Singh,Both
+RES0458,Pind Punjab 458,Bangalore,Karnataka,Rita Kapoor,Non-Veg
+RES0459,Tandoori House 459,Amritsar,Punjab,Neha Pandey,Veg
+RES0460,Punjabi Dhaba 460,Thrissur,Kerala,Pooja Verma,Both
+RES0461,Indian Masala 461,Visakhapatnam,Andhra Pradesh,Sanjay Rao,Non-Veg
+RES0462,Punjabi Dhaba 462,Thiruvananthapuram,Kerala,Anil Sharma,Non-Veg
+RES0463,Chole Bhature Corner 463,Kozhikode,Kerala,Anita Singh,Both
+RES0464,Shahi Zayka 464,Jaipur,Rajasthan,Deepak Agarwal,Both
+RES0465,Curry Cafe 465,Rajkot,Gujarat,Sanjay Rao,Non-Veg
+RES0466,Southern Flavours 466,Madurai,Tamil Nadu,Vikram Mehta,Both
+RES0467,Bombay Bites 467,Hubli,Karnataka,Pooja Verma,Non-Veg
+RES0468,Mirchi Masala 468,Nashik,Maharashtra,Neha Pandey,Non-Veg
+RES0469,Grill & Curry 469,Guntur,Andhra Pradesh,Vikram Mehta,Non-Veg
+RES0470,Indian Masala 470,Nashik,Maharashtra,Sanjay Rao,Veg
+RES0471,Kebab Kulture 471,Bangalore,Karnataka,Rajesh Kumar,Veg
+RES0472,Taste Buds 472,Chennai,Tamil Nadu,Sanjay Rao,Veg
+RES0473,The Curry Pot 473,Hyderabad,Telangana,Anil Sharma,Non-Veg
+RES0474,Mirchi Masala 474,Ludhiana,Punjab,Anita Singh,Non-Veg
+RES0475,Biryani Hub 475,Bhagalpur,Bihar,Anil Sharma,Veg
+RES0476,Saffron Spice 476,Coimbatore,Tamil Nadu,Vikram Mehta,Non-Veg
+RES0477,Tandoori House 477,Nagpur,Maharashtra,Rita Kapoor,Non-Veg
+RES0478,Rajasthan Royals 478,New Delhi,Delhi,Pooja Verma,Veg
+RES0479,Rajma Roti 479,Surat,Gujarat,Pooja Verma,Non-Veg
+RES0480,Masala Magic 480,Nagpur,Maharashtra,Rita Kapoor,Non-Veg
+RES0481,Chaat Bazaar 481,New Delhi,Delhi,Rajesh Kumar,Both
+RES0482,Taste of India 482,Udaipur,Rajasthan,Rita Kapoor,Veg
+RES0483,Rasoi Royale 483,New Delhi,Delhi,Sanjay Rao,Non-Veg
+RES0484,Biryani Hub 484,Thiruvananthapuram,Kerala,Suresh Gupta,Non-Veg
+RES0485,Saravana Bhavan 485,Khammam,Telangana,Anil Sharma,Veg
+RES0486,Biryani Junction 486,Nagpur,Maharashtra,Sanjay Rao,Veg
+RES0487,Flavours of Punjab 487,Lucknow,Uttar Pradesh,Anita Singh,Veg
+RES0488,Punjabi Dhaba 488,Kolkata,West Bengal,Sanjay Rao,Veg
+RES0489,Tandoori Flames 489,Kanpur,Uttar Pradesh,Anita Singh,Veg
+RES0490,Saravana Bhavan 490,Howrah,West Bengal,Neha Pandey,Veg
+RES0491,Shahi Zayka 491,Madurai,Tamil Nadu,Neha Pandey,Veg
+RES0492,Mughlai Feast 492,Kochi,Kerala,Rajesh Kumar,Veg
+RES0493,Annapurna Bhavan 493,Chennai,Tamil Nadu,Rita Kapoor,Veg
+RES0494,Rajma Roti 494,Mangalore,Karnataka,Deepak Agarwal,Veg
+RES0495,The Curry Pot 495,Bhagalpur,Bihar,Rita Kapoor,Non-Veg
+RES0496,Chaat Bazaar 496,Jalandhar,Punjab,Pooja Verma,Both
+RES0497,Chaat House 497,Thiruvananthapuram,Kerala,Sanjay Rao,Non-Veg
+RES0498,Southern Flavours 498,Warangal,Telangana,Deepak Agarwal,Veg
+RES0499,Desi Bites 499,Rajkot,Gujarat,Anita Singh,Both
+RES0500,Taste Buds 500,Tiruchirappalli,Tamil Nadu,Pooja Verma,Non-Veg
+RES0501,Bombay Masala 501,Howrah,West Bengal,Sanjay Rao,Both
+RES0502,Rajma Roti 502,Bhagalpur,Bihar,Pooja Verma,Both
+RES0503,Shahi Zayka 503,Surat,Gujarat,Deepak Agarwal,Non-Veg
+RES0504,South Indian Spice 504,Thrissur,Kerala,Rajesh Kumar,Both
+RES0505,Nizam’s Feast 505,Nizamabad,Telangana,Sanjay Rao,Veg
+RES0506,The Veggie Delight 506,Durgapur,West Bengal,Rita Kapoor,Non-Veg
+RES0507,Dosa Corner 507,Patiala,Punjab,Anita Singh,Both
+RES0508,Mughlai Feast 508,Kozhikode,Kerala,Anita Singh,Veg
+RES0509,Royal Dine 509,Muzaffarpur,Bihar,Anita Singh,Veg
+RES0510,Masala Magic 510,Nashik,Maharashtra,Anita Singh,Non-Veg
+RES0511,Annapurna Bhavan 511,Jaipur,Rajasthan,Sanjay Rao,Both
+RES0512,Thali Palace 512,Varanasi,Uttar Pradesh,Deepak Agarwal,Both
+RES0513,Mirchi Masala 513,Bangalore,Karnataka,Pooja Verma,Veg
+RES0514,Dilli Spice 514,Nagpur,Maharashtra,Deepak Agarwal,Both
+RES0515,The Curry Pot 515,Jalandhar,Punjab,Anita Singh,Non-Veg
+RES0516,Nizam’s Feast 516,New Delhi,Delhi,Anita Singh,Non-Veg
+RES0517,Rajma Roti 517,Warangal,Telangana,Deepak Agarwal,Non-Veg
+RES0518,Kebab Kulture 518,Hubli,Karnataka,Anil Sharma,Non-Veg
+RES0519,Urban Curry House 519,Kozhikode,Kerala,Rajesh Kumar,Veg
+RES0520,Biryani Junction 520,Agra,Uttar Pradesh,Neha Pandey,Both
+RES0521,Grill & Curry 521,Surat,Gujarat,Anita Singh,Both
+RES0522,Chole Bhature Corner 522,Jalandhar,Punjab,Suresh Gupta,Veg
+RES0523,Gravy Villa 523,Kochi,Kerala,Anita Singh,Both
+RES0524,Paneer Paradise 524,Khammam,Telangana,Sanjay Rao,Veg
+RES0525,Chopsticks & Curry 525,Guntur,Andhra Pradesh,Anita Singh,Non-Veg
+RES0526,The Curry House 526,Warangal,Telangana,Anil Sharma,Veg
+RES0527,South Indian Spice 527,Nashik,Maharashtra,Rita Kapoor,Non-Veg
+RES0528,The Kebab Factory 528,Varanasi,Uttar Pradesh,Deepak Agarwal,Veg
+RES0529,Saffron Spice 529,Kanpur,Uttar Pradesh,Anita Singh,Both
+RES0530,Spicy Treat 530,Nagpur,Maharashtra,Anil Sharma,Non-Veg
+RES0531,Biryani Bowl 531,Howrah,West Bengal,Deepak Agarwal,Non-Veg
+RES0532,Tikka Nation 532,Khammam,Telangana,Pooja Verma,Veg
+RES0533,Taste Buds 533,New Delhi,Delhi,Rajesh Kumar,Non-Veg
+RES0534,Tikka Nation 534,Mangalore,Karnataka,Pooja Verma,Both
+RES0535,Bistro India 535,Gaya,Bihar,Suresh Gupta,Both
+RES0536,Mughlai Feast 536,Pune,Maharashtra,Anita Singh,Veg
+RES0537,Chaat Bazaar 537,Mangalore,Karnataka,Neha Pandey,Veg
+RES0538,Gravy Villa 538,Surat,Gujarat,Rita Kapoor,Veg
+RES0539,Taste Buds 539,Nizamabad,Telangana,Pooja Verma,Veg
+RES0540,Veggie Hut 540,Amritsar,Punjab,Suresh Gupta,Both
+RES0541,Southern Flavours 541,Vijayawada,Andhra Pradesh,Anil Sharma,Both
+RES0542,Spice Junction 542,Chennai,Tamil Nadu,Anita Singh,Both
+RES0543,Taste Buds 543,Khammam,Telangana,Rajesh Kumar,Non-Veg
+RES0544,The Veggie Delight 544,New Delhi,Delhi,Suresh Gupta,Both
+RES0545,Annapurna Bhavan 545,Patiala,Punjab,Sanjay Rao,Veg
+RES0546,Swaad Sagar 546,Siliguri,West Bengal,Pooja Verma,Veg
+RES0547,The Veggie Delight 547,Gaya,Bihar,Rita Kapoor,Non-Veg
+RES0548,Veggie Hut 548,Khammam,Telangana,Neha Pandey,Veg
+RES0549,Bombay Bites 549,Varanasi,Uttar Pradesh,Rajesh Kumar,Both
+RES0550,Biryani Hub 550,Nashik,Maharashtra,Deepak Agarwal,Both
+RES0551,Shahi Zayka 551,New Delhi,Delhi,Neha Pandey,Both
+RES0552,Chole Bhature Corner 552,Tiruchirappalli,Tamil Nadu,Anita Singh,Both
+RES0553,Bistro India 553,Kota,Rajasthan,Neha Pandey,Veg
+RES0554,The Kebab Factory 554,Amritsar,Punjab,Rita Kapoor,Veg
+RES0555,Tikka Nation 555,Ludhiana,Punjab,Anil Sharma,Non-Veg
+RES0556,Indian Masala 556,Howrah,West Bengal,Anil Sharma,Both
+RES0557,Rajasthan Royals 557,Kochi,Kerala,Anil Sharma,Veg
+RES0558,Indian Masala 558,Khammam,Telangana,Anil Sharma,Both
+RES0559,Tandoori House 559,Thiruvananthapuram,Kerala,Deepak Agarwal,Non-Veg
+RES0560,Thali Palace 560,Udaipur,Rajasthan,Neha Pandey,Non-Veg
+RES0561,Indian Masala 561,Varanasi,Uttar Pradesh,Deepak Agarwal,Veg
+RES0562,Thali Palace 562,Kolkata,West Bengal,Anita Singh,Both
+RES0563,Rajasthan Royals 563,Howrah,West Bengal,Neha Pandey,Non-Veg
+RES0564,Rajma Roti 564,Mysore,Karnataka,Rajesh Kumar,Non-Veg
+RES0565,Dosa Corner 565,Visakhapatnam,Andhra Pradesh,Rajesh Kumar,Non-Veg
+RES0566,Tandoori House 566,Nashik,Maharashtra,Vikram Mehta,Veg
+RES0567,Zaika 567,Jodhpur,Rajasthan,Rajesh Kumar,Non-Veg
+RES0568,Tandoori House 568,Warangal,Telangana,Deepak Agarwal,Veg
+RES0569,Spice Junction 569,Agra,Uttar Pradesh,Rita Kapoor,Veg
+RES0570,Rasoi Royale 570,Ludhiana,Punjab,Rita Kapoor,Both
+RES0571,Thali Palace 571,New Delhi,Delhi,Neha Pandey,Non-Veg
+RES0572,South Indian Spice 572,Coimbatore,Tamil Nadu,Pooja Verma,Non-Veg
+RES0573,Mirchi Masala 573,Thrissur,Kerala,Vikram Mehta,Both
+RES0574,Royal Rasoi 574,Jaipur,Rajasthan,Vikram Mehta,Veg
+RES0575,Dosa Corner 575,Khammam,Telangana,Suresh Gupta,Non-Veg
+RES0576,Saffron Spice 576,Ahmedabad,Gujarat,Neha Pandey,Non-Veg
+RES0577,Flavours of Punjab 577,New Delhi,Delhi,Vikram Mehta,Non-Veg
+RES0578,The Veggie Delight 578,Thiruvananthapuram,Kerala,Sanjay Rao,Both
+RES0579,Punjabi Dhaba 579,Patiala,Punjab,Rita Kapoor,Non-Veg
+RES0580,Chole Bhature Corner 580,Vadodara,Gujarat,Anita Singh,Veg
+RES0581,Biryani Hub 581,Nizamabad,Telangana,Anita Singh,Non-Veg
+RES0582,Royal Rasoi 582,Hubli,Karnataka,Neha Pandey,Veg
+RES0583,Saffron Spice 583,Gaya,Bihar,Suresh Gupta,Veg
+RES0584,Tandoori House 584,Patna,Bihar,Vikram Mehta,Non-Veg
+RES0585,Pind Punjab 585,Khammam,Telangana,Suresh Gupta,Veg
+RES0586,Dosa Corner 586,Mangalore,Karnataka,Deepak Agarwal,Both
+RES0587,Dilli Spice 587,Jodhpur,Rajasthan,Sanjay Rao,Non-Veg
+RES0588,Southern Flavours 588,Hubli,Karnataka,Anil Sharma,Veg
+RES0589,Urban Curry House 589,Mangalore,Karnataka,Vikram Mehta,Both
+RES0590,Kebab Kulture 590,Patiala,Punjab,Rita Kapoor,Veg
+RES0591,Tikka Nation 591,Lucknow,Uttar Pradesh,Anil Sharma,Non-Veg
+RES0592,South Indian Spice 592,Durgapur,West Bengal,Vikram Mehta,Both
+RES0593,Desi Bites 593,Hubli,Karnataka,Rajesh Kumar,Non-Veg
+RES0594,The Kebab Factory 594,Guntur,Andhra Pradesh,Deepak Agarwal,Both
+RES0595,Rasoi Royale 595,Jodhpur,Rajasthan,Rajesh Kumar,Non-Veg
+RES0596,Taste of India 596,Vijayawada,Andhra Pradesh,Vikram Mehta,Non-Veg
+RES0597,Swaad Sagar 597,Surat,Gujarat,Anita Singh,Veg
+RES0598,Dilli Darbar 598,Howrah,West Bengal,Neha Pandey,Veg
+RES0599,Spicy Treat 599,Tiruchirappalli,Tamil Nadu,Anil Sharma,Both
+RES0600,Chaat Bazaar 600,Mumbai,Maharashtra,Pooja Verma,Veg
+RES0601,Shahi Zayka 601,Vijayawada,Andhra Pradesh,Deepak Agarwal,Both
+RES0602,Rajma Roti 602,Jaipur,Rajasthan,Pooja Verma,Veg
+RES0603,Bombay Masala 603,Patiala,Punjab,Sanjay Rao,Veg
+RES0604,Saffron Spice 604,Patna,Bihar,Pooja Verma,Both
+RES0605,Bombay Bites 605,Tiruchirappalli,Tamil Nadu,Rajesh Kumar,Veg
+RES0606,Swaad Sagar 606,Vadodara,Gujarat,Deepak Agarwal,Non-Veg
+RES0607,Desi Bites 607,Durgapur,West Bengal,Anita Singh,Both
+RES0608,Swaad Sagar 608,Nellore,Andhra Pradesh,Vikram Mehta,Both
+RES0609,Taste of India 609,Howrah,West Bengal,Deepak Agarwal,Both
+RES0610,Chaat Bazaar 610,Durgapur,West Bengal,Anita Singh,Both
+RES0611,Zaika 611,Kochi,Kerala,Pooja Verma,Non-Veg
+RES0612,Dosa Corner 612,Thrissur,Kerala,Suresh Gupta,Non-Veg
+RES0613,Swaad Sagar 613,Madurai,Tamil Nadu,Rajesh Kumar,Veg
+RES0614,Rajma Roti 614,New Delhi,Delhi,Rajesh Kumar,Both
+RES0615,Dilli Darbar 615,Udaipur,Rajasthan,Neha Pandey,Veg
+RES0616,Royal Rasoi 616,Ahmedabad,Gujarat,Anil Sharma,Veg
+RES0617,Tandoor Treats 617,Rajkot,Gujarat,Anita Singh,Both
+RES0618,Dosa Corner 618,Mumbai,Maharashtra,Sanjay Rao,Both
+RES0619,Royal Dine 619,Vadodara,Gujarat,Pooja Verma,Veg
+RES0620,Punjabi Dhaba 620,Pune,Maharashtra,Pooja Verma,Non-Veg
+RES0621,Chaat House 621,Mangalore,Karnataka,Anil Sharma,Both
+RES0622,Chaat Bazaar 622,Thiruvananthapuram,Kerala,Pooja Verma,Veg
+RES0623,Pind Punjab 623,Jaipur,Rajasthan,Rajesh Kumar,Both
+RES0624,Annapurna Bhavan 624,Ludhiana,Punjab,Rita Kapoor,Both
+RES0625,Biryani Bowl 625,Thrissur,Kerala,Sanjay Rao,Both
+RES0626,Rajasthan Royals 626,New Delhi,Delhi,Deepak Agarwal,Veg
+RES0627,Desi Bites 627,Lucknow,Uttar Pradesh,Suresh Gupta,Non-Veg
+RES0628,Taste Buds 628,New Delhi,Delhi,Neha Pandey,Both
+RES0629,Chaat Bazaar 629,Gaya,Bihar,Anil Sharma,Veg
+RES0630,Veggie Hut 630,Surat,Gujarat,Suresh Gupta,Both
+RES0631,Curry Cafe 631,Kochi,Kerala,Suresh Gupta,Veg
+RES0632,Pind Punjab 632,Nizamabad,Telangana,Anita Singh,Non-Veg
+RES0633,Kebab Kulture 633,New Delhi,Delhi,Vikram Mehta,Non-Veg
+RES0634,Kebab Kulture 634,Thiruvananthapuram,Kerala,Deepak Agarwal,Veg
+RES0635,Tandoori House 635,Jaipur,Rajasthan,Suresh Gupta,Non-Veg
+RES0636,Tandoor Treats 636,Jalandhar,Punjab,Deepak Agarwal,Both
+RES0637,Chopsticks & Curry 637,Nagpur,Maharashtra,Anita Singh,Veg
+RES0638,Taste Buds 638,Pune,Maharashtra,Vikram Mehta,Both
+RES0639,Punjabi Dhaba 639,Coimbatore,Tamil Nadu,Vikram Mehta,Veg
+RES0640,Indian Masala 640,New Delhi,Delhi,Vikram Mehta,Both
+RES0641,Spicy Treat 641,Kochi,Kerala,Neha Pandey,Non-Veg
+RES0642,Spice Junction 642,Mumbai,Maharashtra,Rita Kapoor,Veg
+RES0643,Chole Bhature Corner 643,Nellore,Andhra Pradesh,Vikram Mehta,Both
+RES0644,Dilli Darbar 644,Lucknow,Uttar Pradesh,Pooja Verma,Both
+RES0645,Thali Palace 645,Hyderabad,Telangana,Vikram Mehta,Non-Veg
+RES0646,Desi Bites 646,Tiruchirappalli,Tamil Nadu,Deepak Agarwal,Both
+RES0647,Rasoi Royale 647,Nellore,Andhra Pradesh,Rajesh Kumar,Veg
+RES0648,Bistro India 648,Agra,Uttar Pradesh,Deepak Agarwal,Veg
+RES0649,Chaat Bazaar 649,Hubli,Karnataka,Vikram Mehta,Both
+RES0650,Flavours of Punjab 650,Kozhikode,Kerala,Sanjay Rao,Veg
+RES0651,Saffron Spice 651,New Delhi,Delhi,Pooja Verma,Veg
+RES0652,Mughlai Feast 652,Warangal,Telangana,Rita Kapoor,Both
+RES0653,Rajma Roti 653,Mysore,Karnataka,Pooja Verma,Veg
+RES0654,Zaika 654,Thiruvananthapuram,Kerala,Deepak Agarwal,Non-Veg
+RES0655,Curry Cafe 655,Rajkot,Gujarat,Rita Kapoor,Veg
+RES0656,Rajma Roti 656,Thrissur,Kerala,Vikram Mehta,Both
+RES0657,Tandoori Flames 657,Warangal,Telangana,Deepak Agarwal,Veg
+RES0658,Veggie Hut 658,New Delhi,Delhi,Pooja Verma,Both
+RES0659,Chopsticks & Curry 659,Vijayawada,Andhra Pradesh,Sanjay Rao,Veg
+RES0660,Tandoori House 660,Mumbai,Maharashtra,Rajesh Kumar,Non-Veg
+RES0661,Kebab Kulture 661,Kolkata,West Bengal,Sanjay Rao,Non-Veg
+RES0662,Mirchi Masala 662,Jodhpur,Rajasthan,Suresh Gupta,Both
+RES0663,Urban Curry House 663,New Delhi,Delhi,Vikram Mehta,Both
+RES0664,Biryani Bowl 664,Coimbatore,Tamil Nadu,Anita Singh,Both
+RES0665,Dilli Darbar 665,Amritsar,Punjab,Anil Sharma,Both
+RES0666,Spice Junction 666,Visakhapatnam,Andhra Pradesh,Vikram Mehta,Both
+RES0667,Urban Curry House 667,Agra,Uttar Pradesh,Deepak Agarwal,Non-Veg
+RES0668,Masala Magic 668,Kanpur,Uttar Pradesh,Pooja Verma,Both
+RES0669,Zaika 669,Ludhiana,Punjab,Suresh Gupta,Both
+RES0670,Kebab Kulture 670,Kota,Rajasthan,Anil Sharma,Veg
+RES0671,The Curry House 671,Patiala,Punjab,Anil Sharma,Non-Veg
+RES0672,Rajma Roti 672,Patna,Bihar,Anita Singh,Veg
+RES0673,Biryani Junction 673,Siliguri,West Bengal,Sanjay Rao,Both
+RES0674,Taste of India 674,Udaipur,Rajasthan,Rajesh Kumar,Non-Veg
+RES0675,Masala Magic 675,Rajkot,Gujarat,Anita Singh,Non-Veg
+RES0676,Bombay Masala 676,Thrissur,Kerala,Suresh Gupta,Both
+RES0677,The Kebab Factory 677,Kanpur,Uttar Pradesh,Suresh Gupta,Both
+RES0678,Chopsticks & Curry 678,Guntur,Andhra Pradesh,Deepak Agarwal,Non-Veg
+RES0679,South Indian Spice 679,Gaya,Bihar,Anil Sharma,Both
+RES0680,Biryani Hub 680,Mumbai,Maharashtra,Deepak Agarwal,Veg
+RES0681,Veggie Hut 681,Jodhpur,Rajasthan,Sanjay Rao,Both
+RES0682,Biryani Junction 682,Coimbatore,Tamil Nadu,Neha Pandey,Both
+RES0683,Taste of India 683,Visakhapatnam,Andhra Pradesh,Deepak Agarwal,Both
+RES0684,Zaika 684,Khammam,Telangana,Sanjay Rao,Veg
+RES0685,Shahi Zayka 685,Muzaffarpur,Bihar,Pooja Verma,Both
+RES0686,Dosa Corner 686,Nellore,Andhra Pradesh,Neha Pandey,Veg
+RES0687,Tandoor Treats 687,New Delhi,Delhi,Suresh Gupta,Both
+RES0688,Flavours of Punjab 688,Jalandhar,Punjab,Vikram Mehta,Non-Veg
+RES0689,Kebab Kulture 689,Nagpur,Maharashtra,Rajesh Kumar,Non-Veg
+RES0690,Rasoi Royale 690,Guntur,Andhra Pradesh,Anil Sharma,Veg
+RES0691,Punjabi Dhaba 691,Howrah,West Bengal,Pooja Verma,Veg
+RES0692,Rajasthan Royals 692,Kota,Rajasthan,Rita Kapoor,Non-Veg
+RES0693,The Curry House 693,Jaipur,Rajasthan,Suresh Gupta,Both
+RES0694,Indian Masala 694,Nashik,Maharashtra,Rita Kapoor,Both
+RES0695,Dosa Corner 695,Vijayawada,Andhra Pradesh,Sanjay Rao,Both
+RES0696,Zaika 696,Udaipur,Rajasthan,Neha Pandey,Non-Veg
+RES0697,Chopsticks & Curry 697,Durgapur,West Bengal,Anil Sharma,Non-Veg
+RES0698,The Curry Pot 698,Hyderabad,Telangana,Suresh Gupta,Non-Veg
+RES0699,Taste Buds 699,Amritsar,Punjab,Vikram Mehta,Veg
+RES0700,Thali Palace 700,Nizamabad,Telangana,Rita Kapoor,Both
+RES0701,Biryani Junction 701,Pune,Maharashtra,Deepak Agarwal,Both
+RES0702,Biryani Hub 702,Nashik,Maharashtra,Deepak Agarwal,Non-Veg
+RES0703,Saffron Spice 703,Udaipur,Rajasthan,Rajesh Kumar,Non-Veg
+RES0704,Mirchi Masala 704,Bhagalpur,Bihar,Suresh Gupta,Both
+RES0705,Southern Flavours 705,Patiala,Punjab,Anita Singh,Veg
+RES0706,Swaad Sagar 706,Madurai,Tamil Nadu,Pooja Verma,Veg
+RES0707,Dilli Darbar 707,Ahmedabad,Gujarat,Suresh Gupta,Veg
+RES0708,Rajasthan Royals 708,New Delhi,Delhi,Rajesh Kumar,Veg
+RES0709,Chopsticks & Curry 709,Bhagalpur,Bihar,Vikram Mehta,Non-Veg
+RES0710,Shahi Zayka 710,Coimbatore,Tamil Nadu,Vikram Mehta,Veg
+RES0711,Chaat House 711,Thrissur,Kerala,Anil Sharma,Both
+RES0712,Royal Dine 712,Mysore,Karnataka,Vikram Mehta,Veg
+RES0713,Royal Rasoi 713,Guntur,Andhra Pradesh,Rajesh Kumar,Non-Veg
+RES0714,Chaat House 714,Ahmedabad,Gujarat,Vikram Mehta,Non-Veg
+RES0715,Pind Punjab 715,Thiruvananthapuram,Kerala,Suresh Gupta,Non-Veg
+RES0716,Bombay Masala 716,Siliguri,West Bengal,Sanjay Rao,Veg
+RES0717,Gravy Villa 717,Varanasi,Uttar Pradesh,Deepak Agarwal,Non-Veg
+RES0718,Swaad Sagar 718,Ludhiana,Punjab,Rita Kapoor,Non-Veg
+RES0719,The Curry House 719,Kolkata,West Bengal,Deepak Agarwal,Non-Veg
+RES0720,Desi Bites 720,Nashik,Maharashtra,Anita Singh,Non-Veg
+RES0721,Spicy Treat 721,Thiruvananthapuram,Kerala,Anita Singh,Both
+RES0722,Bistro India 722,New Delhi,Delhi,Anita Singh,Non-Veg
+RES0723,Biryani Junction 723,Surat,Gujarat,Neha Pandey,Non-Veg
+RES0724,Curry Cafe 724,Khammam,Telangana,Neha Pandey,Veg
+RES0725,Dilli Spice 725,Jaipur,Rajasthan,Rita Kapoor,Veg
+RES0726,Curry Cafe 726,Chennai,Tamil Nadu,Pooja Verma,Non-Veg
+RES0727,South Indian Spice 727,Vijayawada,Andhra Pradesh,Anil Sharma,Non-Veg
+RES0728,Dilli Spice 728,Kota,Rajasthan,Rita Kapoor,Non-Veg
+RES0729,The Veggie Delight 729,Hyderabad,Telangana,Pooja Verma,Veg
+RES0730,Rasoi Royale 730,Jalandhar,Punjab,Suresh Gupta,Non-Veg
+RES0731,Chopsticks & Curry 731,Chennai,Tamil Nadu,Suresh Gupta,Non-Veg
+RES0732,Shahi Zayka 732,Jaipur,Rajasthan,Anil Sharma,Both
+RES0733,Shahi Zayka 733,Ahmedabad,Gujarat,Suresh Gupta,Both
+RES0734,Swaad Sagar 734,Surat,Gujarat,Anita Singh,Non-Veg
+RES0735,Southern Flavours 735,Patna,Bihar,Vikram Mehta,Both
+RES0736,Biryani Hub 736,Nashik,Maharashtra,Rita Kapoor,Both
+RES0737,Chopsticks & Curry 737,Muzaffarpur,Bihar,Anil Sharma,Both
+RES0738,Bistro India 738,Pune,Maharashtra,Anita Singh,Both
+RES0739,The Kebab Factory 739,Mangalore,Karnataka,Sanjay Rao,Both
+RES0740,Desi Bites 740,Kota,Rajasthan,Pooja Verma,Non-Veg
+RES0741,Mughlai Feast 741,Howrah,West Bengal,Rita Kapoor,Both
+RES0742,Thali Palace 742,Coimbatore,Tamil Nadu,Anita Singh,Veg
+RES0743,Saravana Bhavan 743,Vijayawada,Andhra Pradesh,Rita Kapoor,Both
+RES0744,Royal Rasoi 744,Thiruvananthapuram,Kerala,Deepak Agarwal,Non-Veg
+RES0745,Paneer Paradise 745,Lucknow,Uttar Pradesh,Deepak Agarwal,Veg
+RES0746,Dilli Spice 746,Nashik,Maharashtra,Sanjay Rao,Veg
+RES0747,Spice Junction 747,Udaipur,Rajasthan,Neha Pandey,Both
+RES0748,Rajasthan Royals 748,Durgapur,West Bengal,Rita Kapoor,Veg
+RES0749,Bistro India 749,Surat,Gujarat,Rita Kapoor,Both
+RES0750,Spicy Treat 750,Kochi,Kerala,Deepak Agarwal,Non-Veg
+RES0751,Punjabi Dhaba 751,Nashik,Maharashtra,Anil Sharma,Veg
+RES0752,Mirchi Masala 752,Gaya,Bihar,Vikram Mehta,Both
+RES0753,Chole Bhature Corner 753,Vijayawada,Andhra Pradesh,Anita Singh,Veg
+RES0754,Tandoor Treats 754,Varanasi,Uttar Pradesh,Neha Pandey,Non-Veg
+RES0755,Shahi Zayka 755,Pune,Maharashtra,Anita Singh,Veg
+RES0756,Paneer Paradise 756,Coimbatore,Tamil Nadu,Rita Kapoor,Veg
+RES0757,Tikka Nation 757,Kolkata,West Bengal,Anil Sharma,Non-Veg
+RES0758,Urban Curry House 758,Nagpur,Maharashtra,Anita Singh,Both
+RES0759,South Indian Spice 759,Hubli,Karnataka,Pooja Verma,Veg
+RES0760,Biryani Hub 760,Varanasi,Uttar Pradesh,Pooja Verma,Veg
+RES0761,The Kebab Factory 761,Visakhapatnam,Andhra Pradesh,Pooja Verma,Non-Veg
+RES0762,Mughlai Feast 762,Mumbai,Maharashtra,Rita Kapoor,Veg
+RES0763,Saravana Bhavan 763,Visakhapatnam,Andhra Pradesh,Sanjay Rao,Veg
+RES0764,Gravy Villa 764,New Delhi,Delhi,Anil Sharma,Both
+RES0765,Gravy Villa 765,Kota,Rajasthan,Anil Sharma,Non-Veg
+RES0766,The Veggie Delight 766,Hubli,Karnataka,Rita Kapoor,Non-Veg
+RES0767,Taste Buds 767,Mysore,Karnataka,Anil Sharma,Non-Veg
+RES0768,Royal Dine 768,Vadodara,Gujarat,Rajesh Kumar,Non-Veg
+RES0769,Mirchi Masala 769,New Delhi,Delhi,Suresh Gupta,Veg
+RES0770,Spice Junction 770,New Delhi,Delhi,Suresh Gupta,Both
+RES0771,Bombay Bites 771,Agra,Uttar Pradesh,Anil Sharma,Veg
+RES0772,Annapurna Bhavan 772,Kanpur,Uttar Pradesh,Neha Pandey,Non-Veg
+RES0773,Rajma Roti 773,Kota,Rajasthan,Pooja Verma,Non-Veg
+RES0774,Chole Bhature Corner 774,Lucknow,Uttar Pradesh,Vikram Mehta,Veg
+RES0775,Annapurna Bhavan 775,Hubli,Karnataka,Rajesh Kumar,Both
+RES0776,The Curry House 776,New Delhi,Delhi,Anita Singh,Veg
+RES0777,Spice Junction 777,Ahmedabad,Gujarat,Sanjay Rao,Non-Veg
+RES0778,Biryani Junction 778,Nagpur,Maharashtra,Rajesh Kumar,Non-Veg
+RES0779,Chopsticks & Curry 779,Kota,Rajasthan,Neha Pandey,Both
+RES0780,The Curry Pot 780,Ludhiana,Punjab,Deepak Agarwal,Non-Veg
+RES0781,Mirchi Masala 781,Chennai,Tamil Nadu,Pooja Verma,Non-Veg
+RES0782,Pind Punjab 782,Warangal,Telangana,Neha Pandey,Both
+RES0783,Zaika 783,Rajkot,Gujarat,Anita Singh,Veg
+RES0784,Biryani Hub 784,Kochi,Kerala,Rita Kapoor,Non-Veg
+RES0785,Swaad Sagar 785,Tiruchirappalli,Tamil Nadu,Anil Sharma,Both
+RES0786,Flavours of Punjab 786,Mangalore,Karnataka,Anita Singh,Non-Veg
+RES0787,Indian Masala 787,Coimbatore,Tamil Nadu,Pooja Verma,Non-Veg
+RES0788,Spicy Treat 788,Bhagalpur,Bihar,Sanjay Rao,Veg
+RES0789,The Veggie Delight 789,Durgapur,West Bengal,Deepak Agarwal,Veg
+RES0790,The Curry House 790,Howrah,West Bengal,Anil Sharma,Veg
+RES0791,Chopsticks & Curry 791,Patna,Bihar,Sanjay Rao,Non-Veg
+RES0792,The Veggie Delight 792,New Delhi,Delhi,Suresh Gupta,Veg
+RES0793,The Kebab Factory 793,Mysore,Karnataka,Suresh Gupta,Both
+RES0794,Annapurna Bhavan 794,Bangalore,Karnataka,Deepak Agarwal,Non-Veg
+RES0795,Thali Palace 795,Madurai,Tamil Nadu,Vikram Mehta,Both
+RES0796,Punjabi Dhaba 796,Kanpur,Uttar Pradesh,Suresh Gupta,Both
+RES0797,Flavours of Punjab 797,Thrissur,Kerala,Vikram Mehta,Non-Veg
+RES0798,Curry Cafe 798,Mangalore,Karnataka,Sanjay Rao,Both
+RES0799,Kebab Kulture 799,Hubli,Karnataka,Pooja Verma,Veg
+RES0800,Southern Flavours 800,Agra,Uttar Pradesh,Deepak Agarwal,Both
+RES0801,Swaad Sagar 801,Kochi,Kerala,Neha Pandey,Non-Veg
+RES0802,Indian Masala 802,Mysore,Karnataka,Pooja Verma,Veg
+RES0803,Rajma Roti 803,Patna,Bihar,Anita Singh,Non-Veg
+RES0804,Taste of India 804,Varanasi,Uttar Pradesh,Suresh Gupta,Non-Veg
+RES0805,Bistro India 805,Bhagalpur,Bihar,Anita Singh,Non-Veg
+RES0806,Chole Bhature Corner 806,Muzaffarpur,Bihar,Pooja Verma,Non-Veg
+RES0807,Bistro India 807,Tiruchirappalli,Tamil Nadu,Neha Pandey,Both
+RES0808,Chaat Bazaar 808,Siliguri,West Bengal,Anita Singh,Non-Veg
+RES0809,Flavours of Punjab 809,Thrissur,Kerala,Sanjay Rao,Both
+RES0810,Pind Punjab 810,Vadodara,Gujarat,Deepak Agarwal,Both
+RES0811,Bombay Masala 811,Siliguri,West Bengal,Rajesh Kumar,Both
+RES0812,Grill & Curry 812,Pune,Maharashtra,Anil Sharma,Non-Veg
+RES0813,Royal Rasoi 813,Udaipur,Rajasthan,Deepak Agarwal,Non-Veg
+RES0814,Royal Dine 814,Muzaffarpur,Bihar,Neha Pandey,Both
+RES0815,Paneer Paradise 815,Thrissur,Kerala,Sanjay Rao,Non-Veg
+RES0816,Flavours of Punjab 816,Lucknow,Uttar Pradesh,Rita Kapoor,Non-Veg
+RES0817,Biryani Bowl 817,Nagpur,Maharashtra,Suresh Gupta,Both
+RES0818,Tandoori House 818,Patna,Bihar,Deepak Agarwal,Both
+RES0819,Bistro India 819,Nellore,Andhra Pradesh,Sanjay Rao,Both
+RES0820,Chaat House 820,Pune,Maharashtra,Deepak Agarwal,Non-Veg
+RES0821,Mirchi Masala 821,Vijayawada,Andhra Pradesh,Rajesh Kumar,Both
+RES0822,Saravana Bhavan 822,Guntur,Andhra Pradesh,Rajesh Kumar,Both
+RES0823,Royal Dine 823,Nashik,Maharashtra,Rita Kapoor,Non-Veg
+RES0824,The Veggie Delight 824,Nizamabad,Telangana,Neha Pandey,Non-Veg
+RES0825,Bombay Bites 825,Amritsar,Punjab,Deepak Agarwal,Both
+RES0826,Thali Palace 826,Rajkot,Gujarat,Pooja Verma,Both
+RES0827,Biryani Junction 827,Madurai,Tamil Nadu,Anita Singh,Both
+RES0828,The Veggie Delight 828,New Delhi,Delhi,Suresh Gupta,Non-Veg
+RES0829,Desi Bites 829,Udaipur,Rajasthan,Deepak Agarwal,Both
+RES0830,Masala Magic 830,Jaipur,Rajasthan,Pooja Verma,Non-Veg
+RES0831,Flavours of Punjab 831,Vadodara,Gujarat,Rita Kapoor,Both
+RES0832,Indian Masala 832,Jodhpur,Rajasthan,Deepak Agarwal,Non-Veg
+RES0833,Spice Junction 833,Hyderabad,Telangana,Sanjay Rao,Both
+RES0834,Pind Punjab 834,Mumbai,Maharashtra,Rajesh Kumar,Both
+RES0835,Dilli Spice 835,New Delhi,Delhi,Pooja Verma,Veg
+RES0836,Tandoor Treats 836,Tiruchirappalli,Tamil Nadu,Vikram Mehta,Veg
+RES0837,Grill & Curry 837,Agra,Uttar Pradesh,Rajesh Kumar,Veg
+RES0838,Saffron Spice 838,Kanpur,Uttar Pradesh,Pooja Verma,Both
+RES0839,Tandoori Flames 839,Varanasi,Uttar Pradesh,Anil Sharma,Both
+RES0840,Shahi Zayka 840,Patna,Bihar,Suresh Gupta,Veg
+RES0841,The Curry Pot 841,Madurai,Tamil Nadu,Pooja Verma,Both
+RES0842,Shahi Zayka 842,Patiala,Punjab,Rajesh Kumar,Both
+RES0843,Annapurna Bhavan 843,New Delhi,Delhi,Neha Pandey,Both
+RES0844,Saravana Bhavan 844,Warangal,Telangana,Rita Kapoor,Non-Veg
+RES0845,Punjabi Dhaba 845,Thrissur,Kerala,Rajesh Kumar,Non-Veg
+RES0846,Chopsticks & Curry 846,Nashik,Maharashtra,Rajesh Kumar,Both
+RES0847,The Curry Pot 847,Pune,Maharashtra,Anita Singh,Veg
+RES0848,Annapurna Bhavan 848,Rajkot,Gujarat,Rajesh Kumar,Non-Veg
+RES0849,Urban Curry House 849,Kozhikode,Kerala,Neha Pandey,Both
+RES0850,Kebab Kulture 850,Amritsar,Punjab,Deepak Agarwal,Both
+RES0851,Spicy Treat 851,New Delhi,Delhi,Deepak Agarwal,Veg
+RES0852,Biryani Junction 852,Thrissur,Kerala,Vikram Mehta,Both
+RES0853,Shahi Zayka 853,Patna,Bihar,Anita Singh,Veg
+RES0854,Urban Curry House 854,Siliguri,West Bengal,Deepak Agarwal,Non-Veg
+RES0855,Annapurna Bhavan 855,Surat,Gujarat,Pooja Verma,Non-Veg
+RES0856,Rasoi Royale 856,Pune,Maharashtra,Anil Sharma,Veg
+RES0857,Veggie Hut 857,Durgapur,West Bengal,Anita Singh,Non-Veg
+RES0858,Dosa Corner 858,New Delhi,Delhi,Deepak Agarwal,Both
+RES0859,Annapurna Bhavan 859,Udaipur,Rajasthan,Rajesh Kumar,Veg
+RES0860,Grill & Curry 860,Khammam,Telangana,Rita Kapoor,Non-Veg
+RES0861,The Kebab Factory 861,Chennai,Tamil Nadu,Rita Kapoor,Both
+RES0862,Southern Flavours 862,Muzaffarpur,Bihar,Pooja Verma,Both
+RES0863,Thali Palace 863,Khammam,Telangana,Anil Sharma,Non-Veg
+RES0864,Tikka Nation 864,Jalandhar,Punjab,Anita Singh,Non-Veg
+RES0865,Chole Bhature Corner 865,Mysore,Karnataka,Neha Pandey,Veg
+RES0866,Dilli Darbar 866,Chennai,Tamil Nadu,Vikram Mehta,Both
+RES0867,Paneer Paradise 867,Kota,Rajasthan,Pooja Verma,Both
+RES0868,Dilli Spice 868,Jaipur,Rajasthan,Vikram Mehta,Non-Veg
+RES0869,Chaat Bazaar 869,Ahmedabad,Gujarat,Rajesh Kumar,Non-Veg
+RES0870,Biryani Junction 870,Kozhikode,Kerala,Sanjay Rao,Veg
+RES0871,Masala Magic 871,Udaipur,Rajasthan,Anil Sharma,Veg
+RES0872,Desi Bites 872,Surat,Gujarat,Vikram Mehta,Veg
+RES0873,Annapurna Bhavan 873,Muzaffarpur,Bihar,Anita Singh,Non-Veg
+RES0874,The Veggie Delight 874,Mumbai,Maharashtra,Suresh Gupta,Veg
+RES0875,Spicy Treat 875,Gaya,Bihar,Anita Singh,Non-Veg
+RES0876,Kebab Kulture 876,Bangalore,Karnataka,Rajesh Kumar,Veg
+RES0877,Saffron Spice 877,Pune,Maharashtra,Rita Kapoor,Both
+RES0878,Kebab Kulture 878,Surat,Gujarat,Anil Sharma,Veg
+RES0879,Urban Curry House 879,Mumbai,Maharashtra,Pooja Verma,Veg
+RES0880,Pind Punjab 880,Ahmedabad,Gujarat,Suresh Gupta,Veg
+RES0881,The Curry Pot 881,Patiala,Punjab,Anil Sharma,Non-Veg
+RES0882,Thali Palace 882,Vijayawada,Andhra Pradesh,Suresh Gupta,Non-Veg
+RES0883,Rajma Roti 883,Rajkot,Gujarat,Pooja Verma,Veg
+RES0884,Chole Bhature Corner 884,Mumbai,Maharashtra,Rajesh Kumar,Both
+RES0885,Tandoori Flames 885,Mysore,Karnataka,Anita Singh,Veg
+RES0886,Curry Cafe 886,Mumbai,Maharashtra,Pooja Verma,Non-Veg
+RES0887,Gravy Villa 887,Tiruchirappalli,Tamil Nadu,Rajesh Kumar,Both
+RES0888,Rasoi Royale 888,Jaipur,Rajasthan,Rita Kapoor,Veg
+RES0889,Dilli Darbar 889,Pune,Maharashtra,Sanjay Rao,Non-Veg
+RES0890,Pind Punjab 890,Surat,Gujarat,Rita Kapoor,Veg
+RES0891,Dosa Corner 891,Muzaffarpur,Bihar,Pooja Verma,Both
+RES0892,The Kebab Factory 892,Nellore,Andhra Pradesh,Rita Kapoor,Both
+RES0893,Chaat House 893,Patiala,Punjab,Anil Sharma,Veg
+RES0894,Chaat Bazaar 894,Jalandhar,Punjab,Rita Kapoor,Non-Veg
+RES0895,Spicy Treat 895,Jaipur,Rajasthan,Rajesh Kumar,Veg
+RES0896,Royal Rasoi 896,New Delhi,Delhi,Anita Singh,Non-Veg
+RES0897,Indian Masala 897,Ahmedabad,Gujarat,Suresh Gupta,Both
+RES0898,Rajasthan Royals 898,New Delhi,Delhi,Suresh Gupta,Non-Veg
+RES0899,Grill & Curry 899,Lucknow,Uttar Pradesh,Sanjay Rao,Both
+RES0900,Bombay Bites 900,Hyderabad,Telangana,Rajesh Kumar,Both
+RES0901,Bombay Masala 901,Howrah,West Bengal,Sanjay Rao,Both
+RES0902,Mirchi Masala 902,Muzaffarpur,Bihar,Neha Pandey,Non-Veg
+RES0903,Biryani Junction 903,Jalandhar,Punjab,Vikram Mehta,Non-Veg
+RES0904,Thali Palace 904,Bangalore,Karnataka,Vikram Mehta,Both
+RES0905,Tandoor Treats 905,Coimbatore,Tamil Nadu,Pooja Verma,Non-Veg
+RES0906,Zaika 906,Nizamabad,Telangana,Deepak Agarwal,Non-Veg
+RES0907,Masala Magic 907,Muzaffarpur,Bihar,Anita Singh,Veg
+RES0908,Flavours of Punjab 908,Patiala,Punjab,Vikram Mehta,Veg
+RES0909,Annapurna Bhavan 909,Udaipur,Rajasthan,Rajesh Kumar,Both
+RES0910,Desi Bites 910,Madurai,Tamil Nadu,Pooja Verma,Both
+RES0911,The Kebab Factory 911,Durgapur,West Bengal,Suresh Gupta,Non-Veg
+RES0912,Chaat House 912,Amritsar,Punjab,Pooja Verma,Both
+RES0913,Punjabi Dhaba 913,Patna,Bihar,Rajesh Kumar,Veg
+RES0914,Biryani Hub 914,Agra,Uttar Pradesh,Suresh Gupta,Non-Veg
+RES0915,Veggie Hut 915,Vadodara,Gujarat,Anita Singh,Veg
+RES0916,Indian Masala 916,Varanasi,Uttar Pradesh,Vikram Mehta,Both
+RES0917,The Kebab Factory 917,Kanpur,Uttar Pradesh,Deepak Agarwal,Both
+RES0918,Chaat House 918,Warangal,Telangana,Pooja Verma,Non-Veg
+RES0919,Gravy Villa 919,Rajkot,Gujarat,Rajesh Kumar,Non-Veg
+RES0920,Grill & Curry 920,Patna,Bihar,Suresh Gupta,Both
+RES0921,Chopsticks & Curry 921,Mumbai,Maharashtra,Pooja Verma,Non-Veg
+RES0922,Dilli Darbar 922,Jalandhar,Punjab,Anita Singh,Veg
+RES0923,Dilli Spice 923,Jodhpur,Rajasthan,Pooja Verma,Both
+RES0924,Royal Dine 924,New Delhi,Delhi,Vikram Mehta,Both
+RES0925,Desi Bites 925,New Delhi,Delhi,Anita Singh,Both
+RES0926,Tikka Nation 926,Bangalore,Karnataka,Vikram Mehta,Veg
+RES0927,Gravy Villa 927,Hubli,Karnataka,Anita Singh,Veg
+RES0928,Saravana Bhavan 928,Bangalore,Karnataka,Anil Sharma,Veg
+RES0929,Masala Magic 929,Coimbatore,Tamil Nadu,Pooja Verma,Both
+RES0930,Rasoi Royale 930,Warangal,Telangana,Rita Kapoor,Both
+RES0931,Mughlai Feast 931,New Delhi,Delhi,Vikram Mehta,Veg
+RES0932,Chaat Bazaar 932,Jaipur,Rajasthan,Sanjay Rao,Both
+RES0933,Saravana Bhavan 933,New Delhi,Delhi,Sanjay Rao,Both
+RES0934,Tandoori Flames 934,Patna,Bihar,Pooja Verma,Both
+RES0935,Nizam’s Feast 935,New Delhi,Delhi,Suresh Gupta,Both
+RES0936,Dilli Spice 936,Hubli,Karnataka,Rita Kapoor,Non-Veg
+RES0937,Royal Dine 937,Gaya,Bihar,Sanjay Rao,Veg
+RES0938,Taste of India 938,Ahmedabad,Gujarat,Anita Singh,Non-Veg
+RES0939,The Kebab Factory 939,Nellore,Andhra Pradesh,Deepak Agarwal,Non-Veg
+RES0940,Kebab Kulture 940,Nashik,Maharashtra,Rita Kapoor,Non-Veg
+RES0941,Annapurna Bhavan 941,Kota,Rajasthan,Vikram Mehta,Non-Veg
+RES0942,Mughlai Feast 942,Chennai,Tamil Nadu,Sanjay Rao,Non-Veg
+RES0943,Saravana Bhavan 943,Siliguri,West Bengal,Anita Singh,Non-Veg
+RES0944,Bistro India 944,New Delhi,Delhi,Anita Singh,Non-Veg
+RES0945,Biryani Hub 945,Coimbatore,Tamil Nadu,Rajesh Kumar,Veg
+RES0946,Mughlai Feast 946,Ahmedabad,Gujarat,Anita Singh,Both
+RES0947,Gravy Villa 947,Amritsar,Punjab,Neha Pandey,Both
+RES0948,Zaika 948,Visakhapatnam,Andhra Pradesh,Vikram Mehta,Both
+RES0949,Pind Punjab 949,Howrah,West Bengal,Anil Sharma,Both
+RES0950,Swaad Sagar 950,Amritsar,Punjab,Suresh Gupta,Both
+RES0951,Mirchi Masala 951,New Delhi,Delhi,Vikram Mehta,Veg
+RES0952,Pind Punjab 952,Kolkata,West Bengal,Deepak Agarwal,Both
+RES0953,Tandoori House 953,Madurai,Tamil Nadu,Sanjay Rao,Both
+RES0954,Biryani Bowl 954,Ludhiana,Punjab,Rajesh Kumar,Both
+RES0955,Saravana Bhavan 955,Kota,Rajasthan,Rita Kapoor,Veg
+RES0956,Gravy Villa 956,Mumbai,Maharashtra,Pooja Verma,Non-Veg
+RES0957,Biryani Hub 957,Vadodara,Gujarat,Rajesh Kumar,Non-Veg
+RES0958,Nizam’s Feast 958,Madurai,Tamil Nadu,Vikram Mehta,Veg
+RES0959,Rajasthan Royals 959,Khammam,Telangana,Neha Pandey,Veg
+RES0960,Biryani Bowl 960,Kochi,Kerala,Rajesh Kumar,Both
+RES0961,Flavours of Punjab 961,Jaipur,Rajasthan,Rajesh Kumar,Veg
+RES0962,Rasoi Royale 962,Durgapur,West Bengal,Neha Pandey,Veg
+RES0963,Tandoori House 963,Madurai,Tamil Nadu,Rajesh Kumar,Veg
+RES0964,Masala Magic 964,Kozhikode,Kerala,Rita Kapoor,Veg
+RES0965,Rasoi Royale 965,Patna,Bihar,Pooja Verma,Veg
+RES0966,Bombay Masala 966,Thrissur,Kerala,Pooja Verma,Both
+RES0967,Bombay Bites 967,Gaya,Bihar,Rajesh Kumar,Veg
+RES0968,Dilli Spice 968,Tiruchirappalli,Tamil Nadu,Pooja Verma,Non-Veg
+RES0969,Spice Junction 969,Kolkata,West Bengal,Deepak Agarwal,Both
+RES0970,Spice Junction 970,Bhagalpur,Bihar,Neha Pandey,Both
+RES0971,Chopsticks & Curry 971,New Delhi,Delhi,Sanjay Rao,Veg
+RES0972,Chaat House 972,New Delhi,Delhi,Rita Kapoor,Veg
+RES0973,Southern Flavours 973,Nizamabad,Telangana,Rita Kapoor,Both
+RES0974,Tandoori House 974,Mangalore,Karnataka,Vikram Mehta,Non-Veg
+RES0975,Biryani Hub 975,Agra,Uttar Pradesh,Rita Kapoor,Non-Veg
+RES0976,Dilli Darbar 976,Howrah,West Bengal,Rajesh Kumar,Non-Veg
+RES0977,Curry Cafe 977,Howrah,West Bengal,Pooja Verma,Both
+RES0978,Tandoor Treats 978,Hyderabad,Telangana,Pooja Verma,Veg
+RES0979,Taste Buds 979,Lucknow,Uttar Pradesh,Suresh Gupta,Non-Veg
+RES0980,Gravy Villa 980,New Delhi,Delhi,Anita Singh,Veg
+RES0981,Tandoor Treats 981,Howrah,West Bengal,Sanjay Rao,Both
+RES0982,The Veggie Delight 982,Ahmedabad,Gujarat,Pooja Verma,Both
+RES0983,Spicy Treat 983,Nashik,Maharashtra,Vikram Mehta,Both
+RES0984,Nizam’s Feast 984,Hubli,Karnataka,Anil Sharma,Both
+RES0985,Saravana Bhavan 985,Durgapur,West Bengal,Anita Singh,Veg
+RES0986,Biryani Hub 986,Chennai,Tamil Nadu,Anita Singh,Non-Veg
+RES0987,Indian Masala 987,Mangalore,Karnataka,Rajesh Kumar,Veg
+RES0988,Biryani Bowl 988,New Delhi,Delhi,Sanjay Rao,Non-Veg
+RES0989,Saravana Bhavan 989,Jodhpur,Rajasthan,Sanjay Rao,Non-Veg
+RES0990,Rajma Roti 990,Lucknow,Uttar Pradesh,Anil Sharma,Both
+RES0991,Chole Bhature Corner 991,Visakhapatnam,Andhra Pradesh,Suresh Gupta,Non-Veg
+RES0992,Dilli Spice 992,Nagpur,Maharashtra,Deepak Agarwal,Veg
+RES0993,Bistro India 993,Amritsar,Punjab,Anil Sharma,Veg
+RES0994,Chaat Bazaar 994,New Delhi,Delhi,Pooja Verma,Both
+RES0995,Chaat House 995,Warangal,Telangana,Sanjay Rao,Veg
+RES0996,Bombay Bites 996,Vadodara,Gujarat,Sanjay Rao,Both
+RES0997,Punjabi Dhaba 997,Hubli,Karnataka,Deepak Agarwal,Veg
+RES0998,Chaat Bazaar 998,Vadodara,Gujarat,Suresh Gupta,Veg
+RES0999,Biryani Hub 999,New Delhi,Delhi,Rajesh Kumar,Both
+RES1000,Saffron Spice 1000,Guntur,Andhra Pradesh,Rita Kapoor,Non-Veg
